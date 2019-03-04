@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Assitant Professor"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<br />
+Assistant Professor
 [Department of Industrial and Enterprise Systems Engineering](https://ise.illinois.edu)<br />
 [University of Illinois at Urbana-Champaign](https://illinois.edu)
 
