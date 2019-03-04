@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<br />
+  
 Assistant Professor
+======
 [Department of Industrial and Enterprise Systems Engineering](https://ise.illinois.edu)<br />
 [University of Illinois at Urbana-Champaign](https://illinois.edu)
 
