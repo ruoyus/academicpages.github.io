@@ -23,7 +23,7 @@ author_profile: true
 
 Talk Slides
 ======
-When Do Neural Networks Have No Bad Local Minima? [slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)
+When Do Neural Networks Have No Bad Local Minima? [[slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)]
 
 JOURNAL ARTICLES and PREPRINTS
 ======
