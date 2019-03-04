@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About me 1"
+excerpt: "About me 2"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### Assitant Professor
-[Department of Industrial and Enterprise Systems Engineering](https://ise.illinois.edu)
+[Department of Industrial and Enterprise Systems Engineering](https://ise.illinois.edu)<br />
 [University of Illinois at Urbana-Champaign](https://illinois.edu)
 
 Professional Expeirence
@@ -30,7 +30,7 @@ Research Interests
 
 Honors and Awards
 ======
-* Second Place, 2015 INFORMS George Nicholson student paper competition (61 nominations, 8 finalists) ([prize page](https://www.informs.org/Recognize-Excellence/INFORMS-Prizes-Awards/George-Nicholson-Student-Paper-Competition)) [//]: # "prize page link invalid"
+* Second Place, 2015 INFORMS George Nicholson student paper competition (61 nominations, 8 finalists) ([prize page](https://www.informs.org/Recognize-Excellence/INFORMS-Prizes-Awards/George-Nicholson-Student-Paper-Competition)) <!---prize page link invalid-->
 * Honorable Mention, 2015 INFORMS Optimization Society Student Paper Prize
 * Doctor Dissertation Fellowship, University of Minnesota, 2014-2015.
 * ECE Department Fellowship, University of Minnesota, 2009.
