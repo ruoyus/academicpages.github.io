@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruoyu Sun / Personal Website"
+title                    : "Ruoyu Sun / My Website"
 title_separator          : "-"
 name                     : &name "Ruoyu Sun"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ruoyu Sun"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Coordinated Science Laboratory 131" # could become a hyper link
+  bio              : "Assistant Professor \nDepartment of Industrial and Enterprise Systems Engineering" # Your biography for the left-hand sidebar
+  location         : "CSL 131" # could become a hyper link
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PsfzbCMAAAAJ&hl=en"
