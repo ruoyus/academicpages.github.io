@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruoyu Sun / My Website"
+title                    : "Ruoyu Sun"
 title_separator          : "-"
 name                     : &name "Ruoyu Sun"
 description              : &description "personal description"
