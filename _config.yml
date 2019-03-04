@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ruoyu Sun"
   avatar           : "profile.png"
-  bio              : "Assistant Professor\nDepartment of Industrial and Enterprise Systems Engineering\nUniversity of Illinois at Urbana-Champaign" # Your biography for the left-hand sidebar
+  bio              : "Assistant Professor/\nDepartment of Industrial and Enterprise Systems Engineering/\nUniversity of Illinois at Urbana-Champaign" # Your biography for the left-hand sidebar
   location         : "CSL 131" # could become a hyper link
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
