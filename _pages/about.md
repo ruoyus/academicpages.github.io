@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About me 1"
-excerpt: "About me 2"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-### Assitant Professor
+# Assitant Professor
 [Department of Industrial and Enterprise Systems Engineering](https://ise.illinois.edu)<br />
 [University of Illinois at Urbana-Champaign](https://illinois.edu)
 
@@ -24,9 +24,9 @@ Education
 
 Research Interests
 ======
-**• Large-scale optimization**: ADMM, first order methods, sparse optimization.
-**•	Non-convex methods for machine learning**, e.g. matrix factorization.
-**•	Information theory** and **wireless communications**: Interference alignment, future generation of wireless networks, base station association.
+* **Large-scale optimization**: ADMM, first order methods, sparse optimization.
+* **Non-convex methods for machine learning**, e.g. matrix factorization.
+* **Information theory** and **wireless communications**: Interference alignment, future generation of wireless networks, base station association.
 
 Honors and Awards
 ======
