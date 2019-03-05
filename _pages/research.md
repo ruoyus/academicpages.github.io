@@ -7,6 +7,13 @@ author_profile: true
 
 ADMM
 ======
-*Background:* ADMM (Alternating Direction Method of Multipliers) was proposed 40 years ago and recently attracted lots of attention. The convergence of 2-block ADMM for convex problems was known; however, a recent paper in 2014 showed that multi-block ADMM can diverge even for solving a 3*3 linear system. Interestingly, if we randomly permuted the update order in each cycle (e.g. (132), (231),... compared to traditional cyclic order (123), (123),...), then the algorithm converges. The question is: why?  
+**Background:** ADMM (Alternating Direction Method of Multipliers) was proposed 40 years ago and recently attracted lots of attention. The convergence of 2-block ADMM for convex problems was known; however, a recent paper in 2014 showed that multi-block ADMM can diverge even for solving a 3*3 linear system. Interestingly, if we randomly permuted the update order in each cycle (e.g. (132), (231),... compared to traditional cyclic order (123), (123),...), then the algorithm converges. The question is: why?  
 
-*Our contribution*
+**Our contribution:**  
+1) Result. We show that for solving linear systems RP-ADMM (randomly permuted ADMM) converges in expectation for any number of blocks.  
+2) High-level idea. One simple explanation for this phenomenon is "symmetrization'': the update matrix of cyclic ADMM is a non-symmetric matrix with complex eigenvalues, and random permutation partially symmetrize the update matrix to make the eigenvalues have a nicer distribution. In fact, the key result is that the eigenvalues of the update matrix of RP-CD (randomly permuted coordinate descent) lies in (-1/3, 1), a smaller region than that of cyclic CD which is(-1,1).  
+3) Implications.  
+   a) Problem level: RP-ADMM can potentially be a good solver for large-scale linearly constrained problems (LP, SDP, etc.)  
+   b) Algorithm level: It was widely believed that RP rule is better than cyclic rule; however, little theory is established. This work provides one of the first theoretical results that RP rule is better than the cyclic rule.  
+      •	On the Expected Convergence of Randomly Permuted ADMM  Ruoyu Sun, Zhi-Quan Luo, Yinyu Ye.  
+
