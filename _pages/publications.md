@@ -57,4 +57,46 @@ Enbin Song, Qingjiang Shi, Maziar Sanjabi, Ruoyu Sun, Zhi-Quan Luo. EURASIP Jour
 
 CONFERENCE PAPER
 ======
+* Max-sliced Wasserstein distance for fast GAN training,  
+I. Deshpande, Y.-T. Hu, R. Sun, R. Yeh, S. Koyejo, D. Forsyth, A. Schwing, accepted to CVPR 2019. 
+* [On the Convergence of A Class of Adam-Type Algorithms for Non-Convex Optimization](https://arxiv.org/abs/1808.02941),  
+Xiangyi Chen, Sijia Liu, Ruoyu Sun, Mingyi Hong.  ICLR 2019.
+* [Adding One Neuron Can Eliminate All Bad Local Minima](https://arxiv.org/abs/1805.08671),  
+Shiyu Liang, Ruoyu Sun, Jason Lee, R. Srikant. NeurIPS 2018. [[slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)]
+* [Understanding the Loss Surface of Neural Networks for Binary Classification](https://arxiv.org/abs/1803.00909),  
+Shiyu Liang, Ruoyu Sun, Yixuan Li, R. Srikant. ICML 2018. [[slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)]
+* [Improved Iteration Complexity Bounds of Cyclic Block Coordinate Descent for Convex Problems](https://papers.nips.cc/paper/6028-improved-iteration-complexity-bounds-of-cyclic-block-coordinate-descent-for-convex-problems),  
+Ruoyu Sun, Mingyi Hong  (equal contribution). NIPS 2015.
+* [Guaranteed Matrix Completion via Nonconvex Factorization](https://arxiv.org/abs/1411.8003),  
+Ruoyu Sun, Zhi-Quan Luo. FOCS 2015 (56nd Annual IEEE Symposium on the Foundations of Computer Science). [[arxiv](https://arxiv.org/abs/1411.8003)] [[slides](https://www.dropbox.com/s/2adtsjrd2ldap4c/MC_Sun_Slides.pdf?dl=0)] [[short summary](https://dl.dropboxusercontent.com/u/45090901/Reading_MC_notes.pdf)]
+* [Interference alignment via Feasible Point Pursuit](https://ieeexplore.ieee.org/document/7227116?tp=&arnumber=7227116&url=http:%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7227116),  
+Aritra Konar, Ruoyu Sun, Nikos Sidiropoulos, Zhi-Quan Luo.  Proc. IEEE SPAWC 2015.
+* [Globally Optimal Joint Uplink Base Station Association and Power Control for Max-min Fairness](https://ieeexplore.ieee.org/document/6853637?tp=&arnumber=6853637&url=http:%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6853637),  
+Ruoyu Sun, Zhi-Quan Luo. Proc. IEEE ICASSP 2014.
+* [Long-term Transmit Point Associationfor Coordinated Multipoint Transmission by Stochastic Optimization](https://ieeexplore.ieee.org/document/6612066?tp=&arnumber=6612066&queryText%3DLong-term%20Transmit%20Point%20Association%20for%20Coordinated%20Mult=),  
+Ruoyu Sun, Hadi Baligh, Zhi-Quan Luo. Proc. IEEE SPAWC 2013.
+* [Joint Transceiver Design and Base Station Clustering for Heterogeneous Networks](https://ieeexplore.ieee.org/document/6489071?tp=&arnumber=6489071&queryText%3DJoint%20Transceiver%20Design%20and%20Base%20Station%20Clustering%20for%20=),  
+Mingyi Hong, Meisam Razaviyayn, Ruoyu Sun and Zhi-Quan Luo.  Proc. Asilomar Conference on Signals, Systems and Computers, 2012
+* [Optimal Joint Base Station Assignment and PowerAllocation in a Multiuser SISO Network](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6292900&queryText%3DOptimal+Joint+Base+Station+Assignment+and+Power+Allocation+in+a+Multiuser+SISO+Network),  
+Ruoyu Sun, Mingyi Hong, Zhi-Quan Luo. Proc. IEEE SPAWC 2012.
+* [Robust SINR-Constrained MISO Downlink Beamforming: When is Semidefinite ProgrammingRelaxation Tight?](https://ieeexplore.ieee.org/document/5946350?tp=&arnumber=5946350&queryText%3DRobust%20SINR-Constrained%20MISO%20Downlink%20Beamforming:%20When%20is%20Semidefinite%20Programming%20Relaxation%20Tight=),  
+Enbin Song, Qingjiang Shi, Maziar Sanjabi, Ruoyu Sun, Zhi-Quan Luo. Proc. IEEE ICASSP, 2011.
+
+PATENTS
+======
+* [System and Method for Transmission Point (TP)Association and Beamforming Assignment in Heterogeneous Networks](https://patents.google.com/patent/US20130201937),  
+Ruoyu Sun, Mingyi Hong, Hadi Baligh, Zhi-Quan Luo, and Meisam Razaviyayn.  U.S. Patent App. 13/757,303, filed Feb. 2013.
+
+Ph.D. Dissertation
+======
+* [Matrix Completion via Nonconvex Factorization: Algorithms and Theory](https://conservancy.umn.edu/bitstream/handle/11299/175344/Sun_umn_0130E_15998.pdf?sequence=1&isAllowed=y),  
+Ruoyu Sun, University of Minnesota, May 2015.
+
+
+
+
+
+
+
+
 
