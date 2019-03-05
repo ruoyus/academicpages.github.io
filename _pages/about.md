@@ -13,6 +13,7 @@ redirect_from:
 Assistant Professor
 ======
 [Department of Industrial and Enterprise Systems Engineering](https://ise.illinois.edu)<br />
+[Coordinate Science Lab](https://csl.illinois.edu/)<br />
 [University of Illinois at Urbana-Champaign](https://illinois.edu)
 
 Professional Expeirence
@@ -29,19 +30,19 @@ Research Interests
 ======
 * **Large-scale optimization**: ADMM, first order methods, sparse optimization.
 * **Non-convex methods for machine learning**, e.g. matrix factorization.
-* **Information theory** and **wireless communications**: Interference alignment, future generation of wireless networks, base station association.
+* Previous research interests: Information theory and wireless communications, such as interference alignment and base station association.
 
-Honors and Awards
+News
 ======
-* Second Place, 2015 INFORMS George Nicholson student paper competition (61 nominations, 8 finalists) ([prize page](https://www.informs.org/Recognize-Excellence/INFORMS-Prizes-Awards/George-Nicholson-Student-Paper-Competition)) <!---prize page link invalid-->
-* Honorable Mention, 2015 INFORMS Optimization Society Student Paper Prize
-* Doctor Dissertation Fellowship, University of Minnesota, 2014-2015.
-* ECE Department Fellowship, University of Minnesota, 2009.
-* Gold Medal, 20th Chinese Mathematical Olympiad (23 gold medalists); Member of Chinese National Training Team for 46th International Mathematical Olympiad (IMO), 2005.
-* Gold Medal, 29th All-Russian Mathematical Olympiad (11 gold medalists), 2003
+* Mar 2019: our paper Max-Sliced Wasserstein Distance and its use for GANs is accepted by CVPR 2019 as Oral (the paper will be available later). 
+* Jan 2019: our paper on Adam-type methods (joint with Xiangyi Chen, Sijia Liu and Mingyi Hong) is accepted by ICLR 2019. 
+* Dec 2018: our paper "On the efficiency of random permutation for ADMM and coordinate descent" is accepted by MOR (Mathematics of Operations Research).
+* Nov 2018: I gave a talk at Stanford ISL Colloquium (see slides here) on Nov 8, and Google Brain on Nov 9. 
+* Nov 2018: I organized a session on non-convex optimization for machine learning at INFORMS annual meeting
+* Oct 2018: our paper that says adding a neuron can eliminate all bad local minima will appear at NIPS 2018
 
 Professional Services
 ======
 Reviewer for
 *	Machine learning and computer science:  ICLR, NeurIPS, ICML, COLT, JMLR, FOCS, AISTATS.
-*	Optimization area: SIAM Journal on Optimization, SIAM Journal on Computing, Pacific Journal of Optimization.
+*	Optimization area: Mathematical Programming, SIAM Journal on Optimization, SIAM Journal on Computing, Pacific Journal of Optimization.
