@@ -17,12 +17,12 @@ Assistant Professor
 
 Professional Expeirence
 ======
-**Visiting Researcher,** Facebook Artificial Intelligence Research, 2016.06-2016.12.
+**Visiting Researcher,** Facebook Artificial Intelligence Research, 2016.06-2016.12.  
 **Post-doctoral Scholar,** Dept. of Management Science and Engineering, Stanford University (host: Yinyu Ye), 2015-2016.
 
 Education
 ======
-**Ph.D.** Electrical Engineering, University of Minnesota (Advisor: Zhi-Quan Luo), 2009-2015. 
+**Ph.D.** Electrical Engineering, University of Minnesota (Advisor: Zhi-Quan Luo), 2009-2015.  
 **B.Sc.** in Mathematics, Peking University, Beijing, China, 2005-2009.
 
 Research Interests
