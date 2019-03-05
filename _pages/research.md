@@ -44,7 +44,7 @@ Matrix Completion
 
 5. *Math techniques.*  
    The first step deals with the ambiguity of the factorization, leading us to establish the "coupled" perturbation analysis, i.e. when XY'-M is small, constructing a factorization M = UV' such that U,V satisfy a few conditions including being close to X,Y respectively. This is a way to connect "product space" to Euclidean space.  The second difficulty comes from the random sampling. The third step requires  a rather involved but quite intuitive perturbation analysis, with some additional constraints on X,Y.
-<br>
+
 **Math tools:** Matrix perturbation analysis, Random graph theory.  
 <br>
 The paper is quite long and technical, so I write a short summary of this paper (informal notes). See also [slides].  
