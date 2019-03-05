@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+- - -
+
 ADMM
 ======
 **Background:** ADMM (Alternating Direction Method of Multipliers) was proposed 40 years ago and recently attracted lots of attention. The convergence of 2-block ADMM for convex problems was known; however, a recent paper in 2014 showed that multi-block ADMM can diverge even for solving a 3*3 linear system. Interestingly, if we randomly permuted the update order in each cycle (e.g. (132), (231),... compared to traditional cyclic order (123), (123),...), then the algorithm converges. The question is: why?  
@@ -47,6 +49,6 @@ Matrix Completion
 
 **Math tools:** Matrix perturbation analysis, Random graph theory.  
 <br>
-The paper is quite long and technical, so I write a short summary of this paper (informal notes). See also [slides].  
-   * Ruoyu Sun, Zhi-Quan Luo, "Guaranteed Matrix Completion via Nonconvex Factorization ”, available on arxiv; FOCS 2015.
-   * Ruoyu Sun, Matrix Completion via Nonconvex Factorization: Algorithms and Theory, PhD Dissertation, University of Minnesota, May 2015.
+The paper is quite long and technical, so I write a short [summary](https://dl.dropboxusercontent.com/u/45090901/Reading_MC_notes.pdf) of this paper (informal notes). See also [[slides](https://www.dropbox.com/s/2adtsjrd2ldap4c/MC_Sun_Slides.pdf?dl=0)].  
+   * Ruoyu Sun, Zhi-Quan Luo, "[Guaranteed Matrix Completion via Nonconvex Factorization](https://arxiv.org/abs/1411.8003) ”, available on arxiv; FOCS 2015.
+   * Ruoyu Sun, [Matrix Completion via Nonconvex Factorization: Algorithms and Theory](https://conservancy.umn.edu/bitstream/handle/11299/175344/Sun_umn_0130E_15998.pdf?sequence=1&isAllowed=y), PhD Dissertation, University of Minnesota, May 2015.
