@@ -15,5 +15,5 @@ ADMM
 3. Implications.  
    1. Problem level: RP-ADMM can potentially be a good solver for large-scale linearly constrained problems (LP, SDP, etc.)  
    2. Algorithm level: It was widely believed that RP rule is better than cyclic rule; however, little theory is established. This work provides one of the first theoretical results that RP rule is better than the cyclic rule.  
-     * On the Expected Convergence of Randomly Permuted ADMM  Ruoyu Sun, Zhi-Quan Luo, Yinyu Ye.  
+      * On the Expected Convergence of Randomly Permuted ADMM  Ruoyu Sun, Zhi-Quan Luo, Yinyu Ye.  
 
