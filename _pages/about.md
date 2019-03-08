@@ -23,7 +23,7 @@ Professional Expeirence
 
 Education
 ======
-**Ph.D.** Electrical Engineering, University of Minnesota (Advisor: Zhi-Quan Luo), 2009-2015.  
+**Ph.D.** Electrical Engineering, University of Minnesota, 2009-2015.  
 **B.Sc.** in Mathematics, Peking University, Beijing, China, 2005-2009.
 
 Research Interests
@@ -34,7 +34,7 @@ Research Interests
 
 News
 ======
-* Mar 2019: our paper Max-Sliced Wasserstein Distance and its use for GANs is accepted by CVPR 2019 as Oral (the paper will be available later). 
+* Mar 2019: our paper Max-Sliced Wasserstein Distance and its use for GANs is accepted by CVPR 2019 as Oral (available later). 
 * Jan 2019: our paper on Adam-type methods (joint with Xiangyi Chen, Sijia Liu and Mingyi Hong) is accepted by ICLR 2019. 
 * Dec 2018: our paper "On the efficiency of random permutation for ADMM and coordinate descent" is accepted by MOR (Mathematics of Operations Research).
 * Nov 2018: I gave a talk at Stanford ISL Colloquium (see slides here) on Nov 8, and Google Brain on Nov 9. 
