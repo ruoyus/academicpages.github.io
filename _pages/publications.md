@@ -57,9 +57,11 @@ Ruoyu Sun, Zhi-Quan Luo. IEEE Trans. on Information Theory (TIT), vol. 61, no.1,
 * [Cross-Layer Provision of Future Cellular Networks: A WMMSE-based approach](https://ieeexplore.ieee.org/document/6923542?tp=&arnumber=6923542&url=http:%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6923542),  
 (alphabet order) Hadi Baligh, Mingyi Hong,Wei-Cheng Liao, Zhi-Quan Luo, Meisam Razaviyayn, Maziar Sanjabi, Ruoyu Sun. IEEE Signal Processing Magazine, vol.31, no.6, pp.56-68, Nov. 2014
 * [Joint Base Station Clustering and Beamformer Design for Partial CoordinatedTransmission in Heterogenous Networks](https://ieeexplore.ieee.org/document/6415394?tp=&arnumber=6415394&url=http:%2F%2Fieeexplore.ieee.org%2Fiel5%2F49%2F6415381%2F06415394.pdf%3Farnumber%3D6415394),  
-Mingyi Hong, Ruoyu Sun, Zhi-Quan Luo. IEEE Journal on Selected Areas in Communications (JSAC), special issues on Large-Scale multiple antenna systems , vol. 31, no. 2, pp. 226-240, Feb. 2013. [[link](https://ieeexplore.ieee.org/document/6415394?tp=&arnumber=6415394&url=http:%2F%2Fieeexplore.ieee.org%2Fiel5%2F49%2F6415381%2F06415394.pdf%3Farnumber%3D6415394)][[arxiv](https://arxiv.org/abs/1203.6390)]
-* [Robust SINR-Constrained MISO Downlink Beamforming: When is Semidefinite Programming Relaxation Tight?](https://link.springer.com/article/10.1186/1687-1499-2012-243),  
-Enbin Song, Qingjiang Shi, Maziar Sanjabi, Ruoyu Sun, Zhi-Quan Luo. EURASIP Journal on Wireless Communications and Networking, 2012. [[link](https://link.springer.com/article/10.1186/1687-1499-2012-243)]
+Mingyi Hong, Ruoyu Sun, Zhi-Quan Luo.  
+IEEE Journal on Selected Areas in Communications (JSAC), special issues on Large-Scale multiple antenna systems , vol. 31, no. 2, pp. 226-240, Feb. 2013. [[link](https://ieeexplore.ieee.org/document/6415394?tp=&arnumber=6415394&url=http:%2F%2Fieeexplore.ieee.org%2Fiel5%2F49%2F6415381%2F06415394.pdf%3Farnumber%3D6415394)][[arxiv](https://arxiv.org/abs/1203.6390)]
+* [Robust SINR-Constrained MISO Downlink Beamforming: When is Semidefinite Programming Relaxation Tight?](https://link.springer.com/article/10.1186/1687-1499-2012-243),  
+Enbin Song, Qingjiang Shi, Maziar Sanjabi, Ruoyu Sun, Zhi-Quan Luo.  
+EURASIP Journal on Wireless Communications and Networking, 2012. [[link](https://link.springer.com/article/10.1186/1687-1499-2012-243)]
 
 CONFERENCE PAPER
 ======
@@ -77,9 +79,9 @@ Ruoyu Sun, Mingyi Hong  (equal contribution). NIPS 2015.
 Ruoyu Sun, Zhi-Quan Luo. FOCS 2015 (56nd Annual IEEE Symposium on the Foundations of Computer Science). [[arxiv](https://arxiv.org/abs/1411.8003)] [[slides](https://www.dropbox.com/s/2adtsjrd2ldap4c/MC_Sun_Slides.pdf?dl=0)] [[short summary](https://dl.dropboxusercontent.com/u/45090901/Reading_MC_notes.pdf)]
 * [Interference alignment via Feasible Point Pursuit](https://ieeexplore.ieee.org/document/7227116?tp=&arnumber=7227116&url=http:%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7227116),  
 Aritra Konar, Ruoyu Sun, Nikos Sidiropoulos, Zhi-Quan Luo.  Proc. IEEE SPAWC 2015.
-* [Globally Optimal Joint Uplink Base Station Association and Power Control for Max-min Fairness](https://ieeexplore.ieee.org/document/6853637?tp=&arnumber=6853637&url=http:%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6853637),  
+* [Globally Optimal Joint Uplink Base Station Association and Power Control for Max-min Fairness](https://ieeexplore.ieee.org/document/6853637?tp=&arnumber=6853637&url=http:%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6853637),    
 Ruoyu Sun, Zhi-Quan Luo. Proc. IEEE ICASSP 2014.
-* [Long-term Transmit Point Associationfor Coordinated Multipoint Transmission by Stochastic Optimization](https://ieeexplore.ieee.org/document/6612066?tp=&arnumber=6612066&queryText%3DLong-term%20Transmit%20Point%20Association%20for%20Coordinated%20Mult=),  
+* [Long-term Transmit Point Associationfor Coordinated Multipoint Transmission by Stochastic Optimization](https://ieeexplore.ieee.org/document/6612066?tp=&arnumber=6612066&queryText%3DLong-term%20Transmit%20Point%20Association%20for%20Coordinated%20Mult=),    
 Ruoyu Sun, Hadi Baligh, Zhi-Quan Luo. Proc. IEEE SPAWC 2013.
 * [Joint Transceiver Design and Base Station Clustering for Heterogeneous Networks](https://ieeexplore.ieee.org/document/6489071?tp=&arnumber=6489071&queryText%3DJoint%20Transceiver%20Design%20and%20Base%20Station%20Clustering%20for%20=),  
 Mingyi Hong, Meisam Razaviyayn, Ruoyu Sun and Zhi-Quan Luo.  Proc. Asilomar Conference on Signals, Systems and Computers, 2012
