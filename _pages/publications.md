@@ -58,7 +58,7 @@ Enbin Song, Qingjiang Shi, Maziar Sanjabi, Ruoyu Sun, Zhi-Quan Luo. EURASIP Jour
 CONFERENCE PAPER
 ======
 * Max-sliced Wasserstein distance for fast GAN training,  
-I. Deshpande, Y.-T. Hu, R. Sun, R. Yeh, S. Koyejo, D. Forsyth, A. Schwing, accepted to CVPR 2019. 
+I. Deshpande, Y.-T. Hu, R. Sun, R. Yeh, S. Koyejo, D. Forsyth, A. Schwing, accepted to CVPR 2019, Oral (5.58%). 
 * [On the Convergence of A Class of Adam-Type Algorithms for Non-Convex Optimization](https://arxiv.org/abs/1808.02941),  
 Xiangyi Chen, Sijia Liu, Ruoyu Sun, Mingyi Hong.  ICLR 2019.
 * [Adding One Neuron Can Eliminate All Bad Local Minima](https://arxiv.org/abs/1805.08671),  
