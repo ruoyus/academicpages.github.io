@@ -10,10 +10,11 @@ redirect_from:
 
 - - -
 
-Assistant Professor
+
 ======
-[Department of Industrial and Enterprise Systems Engineering](https://ise.illinois.edu)<br />
-[Coordinate Science Lab](https://csl.illinois.edu/)<br />
+Assistant Professor, [Department of Industrial and Enterprise Systems Engineering](https://ise.illinois.edu)<br />
+Affiliated assistant professor, [Coordinate Science Lab](https://csl.illinois.edu/)<br />
+Affiliated assistant professor, Electrical and Computer Engineering <br />
 [University of Illinois at Urbana-Champaign](https://illinois.edu)
 
 Professional Expeirence
