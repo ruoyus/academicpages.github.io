@@ -39,7 +39,7 @@ Shiyu Liang, Ruoyu Sun, Yixuan Li, R. Srikant. Part of the paper has appeared at
 * [Worst-case Complexity of Cyclic Coordinate Descent: O(n^2) Gap with Randomized Version](https://arxiv.org/abs/1604.07130),  
 Ruoyu Sun, Yinyu Ye. Under revision.
 * [Globally Optimal Uplink Joint Base Station Association and Beamforming](https://arxiv.org/abs/1512.04927),  
-Wei Liu, Ruoyu Sun (corresponding author), Zhi-Quan Luo, Jian-Dong Li. Submitted. Available on arxiv. Part of the paper has appeared at ICASSP 2014.  
+Wei Liu, Ruoyu Sun (corresponding author), Zhi-Quan Luo, Jian-Dong Li. Accepted to IEEE Transactions on Communications. Part of the paper has appeared at ICASSP 2014.  
 * [On the Efficiency of Random Permutation for ADMM and Coordinate Descent](https://arxiv.org/abs/1503.06387v3),  
 Ruoyu Sun, Zhi-Quan Luo, Yinyu Ye. Accepted to Mathematics of Operations Research, 2018. [[arxiv](https://arxiv.org/abs/1503.06387)] [[video](https://simons.berkeley.edu/talks/ruoyu-sun-10-03-17)]  
 Previous version: [On the Expected Convergence of Randomly Permuted ADMM](https://arxiv.org/abs/1503.06387v2)  
