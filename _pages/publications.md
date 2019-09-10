@@ -37,7 +37,7 @@ Part of the paper has appeared at NIPS 2018. [[slides](https://www.dropbox.com/s
 * [Understanding the Loss Surface of Neural Networks for Binary Classification](https://arxiv.org/abs/1803.00909),  
 Shiyu Liang, Ruoyu Sun, Yixuan Li, R. Srikant. Part of the paper has appeared at ICML 2018. [[slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)]
 * [Worst-case Complexity of Cyclic Coordinate Descent: O(n^2) Gap with Randomized Version](https://arxiv.org/abs/1604.07130),  
-Ruoyu Sun, Yinyu Ye. Under revision.
+Ruoyu Sun, Yinyu Ye. Accepted to Mathematical Programming (Series A), 2019. 
 * [Globally Optimal Uplink Joint Base Station Association and Beamforming](https://arxiv.org/abs/1512.04927),  
 Wei Liu, Ruoyu Sun (corresponding author), Zhi-Quan Luo. Accepted to IEEE Transactions on Communications. Part of the paper has appeared at ICASSP 2014.  
 * [On the Efficiency of Random Permutation for ADMM and Coordinate Descent](https://arxiv.org/abs/1503.06387v3),  
