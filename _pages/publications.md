@@ -27,8 +27,8 @@ When Do Neural Networks Have No Bad Local Minima? [[slides](https://www.dropbox.
 
 JOURNAL ARTICLES and PREPRINTS
 ======
-* [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations](https://arxiv.org/pdf/1812.11039.pdf),  
-Dawei Li, Tian Ding, Ruoyu Sun. Preprint.
+* Optimization theory for deep learning: an overview. Forthcoming. 
+* [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. Preprint.
 * [On the Convergence of A Class of Adam-Type Algorithms for Non-Convex Optimization](https://arxiv.org/abs/1808.02941),  
 Xiangyi Chen, Sijia Liu, Ruoyu Sun, Mingyi Hong.  Part of the paper has been accepted to ICLR 2019.
 * [Adding One Neuron Can Eliminate All Bad Local Minima](https://arxiv.org/abs/1805.08671),  
@@ -36,7 +36,7 @@ Shiyu Liang, Ruoyu Sun, Jason Lee, R. Srikant.
 Part of the paper has appeared at NIPS 2018. [[slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)]
 * [Understanding the Loss Surface of Neural Networks for Binary Classification](https://arxiv.org/abs/1803.00909),  
 Shiyu Liang, Ruoyu Sun, Yixuan Li, R. Srikant. Part of the paper has appeared at ICML 2018. [[slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)]
-* [Worst-case Complexity of Cyclic Coordinate Descent: O(n^2) Gap with Randomized Version](https://arxiv.org/abs/1604.07130),  
+* [Worst-case Complexity of Cyclic Coordinate Descent: O(n^2) Gap with Randomized Version](https://arxiv.org/abs/1604.07130), 
 Ruoyu Sun, Yinyu Ye. Accepted to Mathematical Programming (Series A), 2019. 
 * [Globally Optimal Uplink Joint Base Station Association and Beamforming](https://arxiv.org/abs/1512.04927),  
 Wei Liu, Ruoyu Sun (corresponding author), Zhi-Quan Luo. Accepted to IEEE Transactions on Communications. Part of the paper has appeared at ICASSP 2014.  
