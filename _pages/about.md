@@ -37,6 +37,7 @@ Research Interests
 News
 ======
 * Sep 2019: our paper "Worst-case complexity of cyclic coordinate descent: O(n^2) gap with randomized versions" is accepted by MP (Mathematical Programming).
+* Aug 2019: I organized a session on "Non-convex optimization for neural networks" at ICCOPT 2019, the triennial conference of contiuous optimization. 
 * Mar 2019: our paper Max-Sliced Wasserstein Distance and its use for GANs is accepted by CVPR 2019 as Oral (available later). 
 * Jan 2019: our paper on Adam-type methods (joint with Xiangyi Chen, Sijia Liu and Mingyi Hong) is accepted by ICLR 2019. 
 * Dec 2018: our paper "On the efficiency of random permutation for ADMM and coordinate descent" is accepted by MOR (Mathematics of Operations Research).
