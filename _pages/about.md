@@ -29,9 +29,10 @@ Education
 
 Research Interests
 ======
-* **Large-scale optimization**: ADMM, first order methods, sparse optimization.
-* **Non-convex methods for machine learning**, e.g. matrix factorization.
-* Previous research interests: Information theory and wireless communications, such as interference alignment and base station association.
+* **Optimization for deep learning** lanscape analysis of neural-nets, GANs, Adam, adversarial robustness, etc.
+* **Non-convex optimization for machine learning**, neural networks, matrix factorization, etc.
+* **Large-scale optimization**: ADMM, coordinate descent, adaptive gradient methods, etc.
+* Other research interests: blockchain protocols, Information theory and wireless communications, such as interference alignment and base station association.
 
 News
 ======
