@@ -28,7 +28,7 @@ When Do Neural Networks Have No Bad Local Minima? [[slides](https://www.dropbox.
 PREPRINTS
 ======
 * Optimization theory for deep learning: an overview. Forthcoming. 
-* [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity], forthcoming.
+* [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), preprint.
 * [Designing better global landscape for GAN](https://openreview.net/forum?id=HylA41Btwr), under review. Joint work with Alex Schwing and Tiantian Fang. 
 * [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](http://www.optimization-online.org/DB_HTML/2019/10/7409.html) Tian Ding, Dawei Li, Ruoyu Sun. Preprint.
 * [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity], Shiyu Liang, Ruoyu Sun, Srikant. Forthcoming. 
@@ -36,7 +36,7 @@ PREPRINTS
 
 PUBLICATIONS (by Time)
 ======
-* Max-sliced Wasserstein distance for fast GAN training,  
+* [Max-sliced Wasserstein distance for fast GAN training](https://arxiv.org/abs/1904.05877),  
 Deshpande, I., Hu, Y.T., Sun, R., Pyrros, A., Siddiqui, N., Koyejo, S., Zhao, Z., Forsyth, D. and Schwing, A.G., 2019. Max-Sliced Wasserstein Distance and Its Use for GANs. CVPR 2019, Oral (5.58%).
 
 * [On the Convergence of A Class of Adam-Type Algorithms for Non-Convex Optimization](https://arxiv.org/abs/1808.02941),  
@@ -61,10 +61,10 @@ Oral talk, NIPS 2015 workshop on optimization for machine learning ([workshop li
 Ruoyu Sun, Zhi-Quan Luo.  
 IEEE Transaction on Information Theory 2016; a shorter version has appeared at FOCS 2015. [[arxiv](https://arxiv.org/abs/1411.8003)] [[slides](https://www.dropbox.com/s/2adtsjrd2ldap4c/MC_Sun_Slides.pdf?dl=0)] [[short summary](https://dl.dropboxusercontent.com/u/45090901/Reading_MC_notes.pdf)]  
 Honorable mention, 2015 INFORMS Optimization Society student paper prize.([prize page](https://www.informs.org/Archive/Community/Optimization-Society/Optimization-Society-Prizes/Student-Paper-Prize/2015))
-
 * [Improved Iteration Complexity Bounds of Cyclic Block Coordinate Descent for Convex Problems](https://papers.nips.cc/paper/6028-improved-iteration-complexity-bounds-of-cyclic-block-coordinate-descent-for-convex-problems),  
 Ruoyu Sun, Mingyi Hong  (equal contribution). NIPS 2015.
-
+* [Interference alignment via Feasible Point Pursuit](https://ieeexplore.ieee.org/document/7227116?tp=&arnumber=7227116&url=http:%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7227116),  
+Aritra Konar, Ruoyu Sun, Nikos Sidiropoulos, Zhi-Quan Luo.  Proc. IEEE SPAWC 2015.
 * [Joint Downlink Base Station Association and Power Control for Max-Min Fairness:Computation and Complexity](https://arxiv.org/abs/1407.2791),  
 Ruoyu Sun, Mingyi Hong, Zhi-Quan Luo.  
 IEEE Journal of Selected Areas in Communications (JSAC),vol.33, no.6, pp.1040-1054, June 2015. [[link](https://ieeexplore.ieee.org/document/7070670?tp=&arnumber=7070670&url=http:%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7070670)][[arxiv](https://arxiv.org/abs/1407.2791)]
@@ -72,25 +72,23 @@ IEEE Journal of Selected Areas in Communications (JSAC),vol.33, no.6, pp.1040-10
 Ruoyu Sun, Zhi-Quan Luo. IEEE Trans. on Information Theory (TIT), vol. 61, no.1, pp.239-255, Jan. 2015. [[link](https://ieeexplore.ieee.org/document/6951516?tp=&arnumber=6951516&url=http:%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6951516)] [[arxiv](https://arxiv.org/abs/1307.6125)] [[slides](https://dl.dropboxusercontent.com/u/45090901/slides_SunLuo_IA%20finite.pdf)]
 * [Cross-Layer Provision of Future Cellular Networks: A WMMSE-based approach](https://ieeexplore.ieee.org/document/6923542?tp=&arnumber=6923542&url=http:%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6923542),  
 (alphabet order) Hadi Baligh, Mingyi Hong,Wei-Cheng Liao, Zhi-Quan Luo, Meisam Razaviyayn, Maziar Sanjabi, Ruoyu Sun. IEEE Signal Processing Magazine, vol.31, no.6, pp.56-68, Nov. 2014
+* [Long-term Transmit Point Associationfor Coordinated Multipoint Transmission by Stochastic Optimization](https://ieeexplore.ieee.org/document/6612066?tp=&arnumber=6612066&queryText%3DLong-term%20Transmit%20Point%20Association%20for%20Coordinated%20Mult=),    
+Ruoyu Sun, Hadi Baligh, Zhi-Quan Luo. Proc. IEEE SPAWC 2013.
 * [Joint Base Station Clustering and Beamformer Design for Partial CoordinatedTransmission in Heterogenous Networks](https://ieeexplore.ieee.org/document/6415394?tp=&arnumber=6415394&url=http:%2F%2Fieeexplore.ieee.org%2Fiel5%2F49%2F6415381%2F06415394.pdf%3Farnumber%3D6415394),  
 Mingyi Hong, Ruoyu Sun, Zhi-Quan Luo.  
 IEEE Journal on Selected Areas in Communications (JSAC), special issues on Large-Scale multiple antenna systems , vol. 31, no. 2, pp. 226-240, Feb. 2013. [[link](https://ieeexplore.ieee.org/document/6415394?tp=&arnumber=6415394&url=http:%2F%2Fieeexplore.ieee.org%2Fiel5%2F49%2F6415381%2F06415394.pdf%3Farnumber%3D6415394)][[arxiv](https://arxiv.org/abs/1203.6390)]
+* [Optimal Joint Base Station Assignment and PowerAllocation in a Multiuser SISO Network](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6292900&queryText%3DOptimal+Joint+Base+Station+Assignment+and+Power+Allocation+in+a+Multiuser+SISO+Network),  
+Ruoyu Sun, Mingyi Hong, Zhi-Quan Luo. Proc. IEEE SPAWC 2012.
+* [Joint Transceiver Design and Base Station Clustering for Heterogeneous Networks](https://ieeexplore.ieee.org/document/6489071?tp=&arnumber=6489071&queryText%3DJoint%20Transceiver%20Design%20and%20Base%20Station%20Clustering%20for%20=),  
+Mingyi Hong, Meisam Razaviyayn, Ruoyu Sun and Zhi-Quan Luo.  Proc. Asilomar Conference on Signals, Systems and Computers, 2012
 * [Robust SINR-Constrained MISO Downlink Beamforming: When is Semidefinite Programming Relaxation Tight?](https://link.springer.com/article/10.1186/1687-1499-2012-243),  
 Enbin Song, Qingjiang Shi, Maziar Sanjabi, Ruoyu Sun, Zhi-Quan Luo.  
 EURASIP Journal on Wireless Communications and Networking, 2012. [[link](https://link.springer.com/article/10.1186/1687-1499-2012-243)]
+ [Conference version](https://ieeexplore.ieee.org/document/5946350?tp=&arnumber=5946350&queryText%3DRobust%20SINR-Constrained%20MISO%20Downlink%20Beamforming:%20When%20is%20Semidefinite%20Programming%20Relaxation%20Tight=)IEEE ICASSP, 2011.
 
-Papers (by Time)
-======
-* [Interference alignment via Feasible Point Pursuit](https://ieeexplore.ieee.org/document/7227116?tp=&arnumber=7227116&url=http:%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7227116),  
-Aritra Konar, Ruoyu Sun, Nikos Sidiropoulos, Zhi-Quan Luo.  Proc. IEEE SPAWC 2015.
-* [Long-term Transmit Point Associationfor Coordinated Multipoint Transmission by Stochastic Optimization](https://ieeexplore.ieee.org/document/6612066?tp=&arnumber=6612066&queryText%3DLong-term%20Transmit%20Point%20Association%20for%20Coordinated%20Mult=),    
-Ruoyu Sun, Hadi Baligh, Zhi-Quan Luo. Proc. IEEE SPAWC 2013.
-* [Joint Transceiver Design and Base Station Clustering for Heterogeneous Networks](https://ieeexplore.ieee.org/document/6489071?tp=&arnumber=6489071&queryText%3DJoint%20Transceiver%20Design%20and%20Base%20Station%20Clustering%20for%20=),  
-Mingyi Hong, Meisam Razaviyayn, Ruoyu Sun and Zhi-Quan Luo.  Proc. Asilomar Conference on Signals, Systems and Computers, 2012
-* [Optimal Joint Base Station Assignment and PowerAllocation in a Multiuser SISO Network](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6292900&queryText%3DOptimal+Joint+Base+Station+Assignment+and+Power+Allocation+in+a+Multiuser+SISO+Network),  
-Ruoyu Sun, Mingyi Hong, Zhi-Quan Luo. Proc. IEEE SPAWC 2012.
-* [Robust SINR-Constrained MISO Downlink Beamforming: When is Semidefinite ProgrammingRelaxation Tight?](https://ieeexplore.ieee.org/document/5946350?tp=&arnumber=5946350&queryText%3DRobust%20SINR-Constrained%20MISO%20Downlink%20Beamforming:%20When%20is%20Semidefinite%20Programming%20Relaxation%20Tight=),  
-Enbin Song, Qingjiang Shi, Maziar Sanjabi, Ruoyu Sun, Zhi-Quan Luo. Proc. IEEE ICASSP, 2011.
+
+
+
 
 
 PATENTS
