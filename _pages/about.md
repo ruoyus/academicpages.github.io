@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 - - -
+Welcome to my homepage!
+I am an assitant professor at UIUC, studying optimization and machine learning (especially deep learning). I was a visiting scientist at FAIR. 
+
 
 Assistant Professor
 ======
@@ -36,6 +39,8 @@ Research Interests
 
 News
 ======
+* Oct 2019: our paper "spurious local minima exist for almost all over-parameterized neural networks" is available at optimizaiton online. 
+* Oct 2019: our paper "understanding two symmeterized orders by worst-case complexity" is available at arxiv. 
 * Sep 2019: our paper "Worst-case complexity of cyclic coordinate descent: O(n^2) gap with randomized versions" is accepted by MP (Mathematical Programming).
 * Aug 2019: I organized a session on "Non-convex optimization for neural networks" at ICCOPT 2019, the triennial conference of contiuous optimization. 
 * Mar 2019: our paper Max-Sliced Wasserstein Distance and its use for GANs is accepted by CVPR 2019 as Oral (available later). 
