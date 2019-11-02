@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Papers"
+permalink: /papers/
 author_profile: true
 ---
 
@@ -23,7 +23,8 @@ author_profile: true
 
 Talk Slides
 ======
-When Do Neural Networks Have No Bad Local Minima? [[slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)]
+Over-parameterized networks have no bad basins [[slides](https://www.dropbox.com/s/0a4bnsnwp7v0a47/NoBadBasin_Ruoyu%20talk.pdf?dl=0)]
+When Do Neural Networks Have No Bad Local Minima? (for ICML and NeurIPS'19 papers) [[slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)]
 
 PREPRINTS
 ======
@@ -32,6 +33,7 @@ PREPRINTS
 * [Designing better global landscape for GAN](https://openreview.net/forum?id=HylA41Btwr), under review. Joint work with Alex Schwing and Tiantian Fang. 
 * [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](http://www.optimization-online.org/DB_HTML/2019/10/7409.html) Tian Ding, Dawei Li, Ruoyu Sun. Preprint.
 * [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity], Shiyu Liang, Ruoyu Sun, Srikant. Forthcoming. 
+* [On the Convergence rate of Barzilai Borwein method], Dawei Li, Ruoyu Sun. Forthcoming.
 * [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. Preprint.
 
 PUBLICATIONS (by Time)
