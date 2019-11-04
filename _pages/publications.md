@@ -24,6 +24,7 @@ author_profile: true
 Talk Slides
 ======
 Over-parameterized networks have no bad basins [[slides](https://www.dropbox.com/s/0a4bnsnwp7v0a47/NoBadBasin_Ruoyu%20talk.pdf?dl=0)]
+
 When Do Neural Networks Have No Bad Local Minima? (for ICML and NeurIPS'19 papers) [[slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)]
 
 PREPRINTS
