@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Papers"
-permalink: /papers/
+permalink: /publications/
 author_profile: true
 ---
 
