@@ -14,7 +14,7 @@ I am an assitant professor at UIUC, studying optimization and machine learning (
 
 Recently, I have been studying optimization in deep learning, such as landscape of neural-nets, GANs and Adam. I have written a survey "optimization for deep learning: theory and algorithms", based on the contents of my recent course. Another direction I've been studying is the computation/iteration complexity of optimization algorithms, especially ADMM and coordinate descent. 
 
-Students interested in optimization/ML/AI are welcome to contact me. Master students can check "advised master projects" in "Publications".
+Perspective and current students interested in optimization/ML/AI are welcome to contact me. Undergraduate interns and visiting students/scholars are also welcome. Master students may check "advised master projects" in "Publications".
 
 
 Assistant Professor
