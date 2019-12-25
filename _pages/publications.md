@@ -29,12 +29,12 @@ When Do Neural Networks Have No Bad Local Minima? (for ICML and NeurIPS'19 paper
 
 PREPRINTS
 ======
-* Optimization theory for deep learning: an overview. Forthcoming. 
+* [Optimization theory for deep learning: an overview](http://arxiv.org/abs/1912.08957). preprint. 
 * [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), preprint.
-* [Designing better global landscape for GAN](https://openreview.net/forum?id=HylA41Btwr), under review.
+* Designing a better global landscape for GAN. 
 * [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413);oo-version(http://www.optimization-online.org/DB_HTML/2019/10/7409.html) Tian Ding, Dawei Li, Ruoyu Sun. Preprint.
-* [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity], Shiyu Liang, Ruoyu Sun, Srikant. Forthcoming. 
-* [On the Convergence rate of Barzilai Borwein method], Dawei Li, Ruoyu Sun. Forthcoming.
+* [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity], Shiyu Liang, Ruoyu Sun, Srikant. Submitted.  
+* [On the Convergence Rate of Barzilai Borwein method], Dawei Li, Ruoyu Sun. Forthcoming.
 * [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. Preprint.
 
 PUBLICATIONS (by Time)
