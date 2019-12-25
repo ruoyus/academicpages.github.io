@@ -94,9 +94,6 @@ EURASIP Journal on Wireless Communications and Networking, 2012. [[link](https:/
 
 
 
-
-
-
 PATENTS
 ======
 * [System and Method for Transmission Point (TP)Association and Beamforming Assignment in Heterogeneous Networks](https://patents.google.com/patent/US20130201937),  
@@ -107,11 +104,9 @@ Ph.D. Dissertation
 * [Matrix Completion via Nonconvex Factorization: Algorithms and Theory](https://conservancy.umn.edu/bitstream/handle/11299/175344/Sun_umn_0130E_15998.pdf?sequence=1&isAllowed=y),  
 Ruoyu Sun, University of Minnesota, May 2015.
 
-
-
-
-
-
-
-
+Advised master projects (selected)
+=======
+* Myung-Hwan Song, [TRAINABILITY AND GENERALIZATION OF SMALL-SCALE NEURAL NETWORKS](https://www.ideals.illinois.edu/bitstream/handle/2142/104821/SONG-THESIS-2019.pdf?sequence=1&isAllowed=y), 2019
+* Deborshi Goswami, [Application of capsule networks for image classification on complex datasets](https://www.ideals.illinois.edu/handle/2142/105694), 2019
+* Ziyu Zhou, [Multi-Domain Image-to-Image Translation using StarGAN with Max Sliced Wasserstein Distance](https://github.com/Ziyu0/max-sliced-stargan), 2019
 
