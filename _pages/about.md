@@ -14,7 +14,7 @@ I am an assitant professor at UIUC, studying optimization and machine learning (
 
 Recently, I have been studying optimization in deep learning, such as landscape of neural-nets, GANs and Adam. I have written a survey "optimization for deep learning: theory and algorithms", based on the contents of my recent course. Another direction I've been studying is the computation/iteration complexity of optimization algorithms, especially ADMM and coordinate descent. 
 
-Students interested in optimization/ML/AI are welcome to contact me. 
+Students interested in optimization/ML/AI are welcome to contact me. Master students can check "advised master projects" in "Publications".
 
 
 Assistant Professor
@@ -43,6 +43,7 @@ Research Interests
 
 News
 ======
+* Dec 2019: my survey "optimization for deep learning: theory and algorithms" is available at arxiv https://arxiv.org/abs/1912.08957 Comments are welcome. 
 * Oct 2019: our paper "spurious local minima exist for almost all over-parameterized neural networks" is available at optimizaiton online. 
 * Oct 2019: our paper "understanding two symmeterized orders by worst-case complexity" is available at arxiv. 
 * Sep 2019: our paper "Worst-case complexity of cyclic coordinate descent: O(n^2) gap with randomized versions" is accepted by MP (Mathematical Programming).
