@@ -31,11 +31,12 @@ PREPRINTS
 ======
 * [Optimization for deep learning: theory and algorithms](http://arxiv.org/abs/1912.08957). Ruoyu Sun. (Survey paper). Preprint. 
 * [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), Peijun Xiao, Zhisheng Xiao, Ruoyu Sun. Submitted.
-* Designing a better global landscape for GAN. Under modification.
-* [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413);oo-version(http://www.optimization-online.org/DB_HTML/2019/10/7409.html) Tian Ding, Dawei Li, Ruoyu Sun. Preprint.
+* [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413);[oo-version](http://www.optimization-online.org/DB_HTML/2019/10/7409.html) Tian Ding, Dawei Li, Ruoyu Sun. Preprint.
 * [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity](https://arxiv.org/abs/1912.13472), Shiyu Liang, Ruoyu Sun, Srikant. Submitted.  
-* [On the Convergence Rate of Barzilai Borwein method], Dawei Li, Ruoyu Sun. Forthcoming.
 * [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. Preprint.
+* Designing a better global landscape for GAN. Under modification.
+* [On the Convergence Rate of Barzilai Borwein method], Dawei Li, Ruoyu Sun. Forthcoming.
+
 
 PUBLICATIONS (by Time)
 ======
