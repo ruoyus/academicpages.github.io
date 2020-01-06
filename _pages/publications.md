@@ -29,7 +29,7 @@ When Do Neural Networks Have No Bad Local Minima? (for ICML and NeurIPS'19 paper
 
 PREPRINTS
 ======
-* [Optimization for deep learning: theory and algorithms](http://arxiv.org/abs/1912.08957). Ruoyu Sun. (Survey paper). Preprint. 
+* [Optimization for deep learning: theory and algorithms](http://arxiv.org/abs/1912.08957). Ruoyu Sun. (Survey paper). Preprint. My recent courses IE598 "optimization theory for deep learning" and "mathematics of deep learning" (at PKU appliied math summer school) are partially based on this article.  
 * [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), Peijun Xiao, Zhisheng Xiao, Ruoyu Sun. Submitted.
 * [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413);[oo-version](http://www.optimization-online.org/DB_HTML/2019/10/7409.html) Tian Ding, Dawei Li, Ruoyu Sun. Preprint.
 * [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity](https://arxiv.org/abs/1912.13472), Shiyu Liang, Ruoyu Sun, Srikant. Submitted.  
