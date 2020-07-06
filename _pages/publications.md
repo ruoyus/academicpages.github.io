@@ -40,7 +40,7 @@ PREPRINTS
 
 PUBLICATIONS (by Time)
 ======
-* The Global landscape of neural networks. To appear in IEEE Signal Processing Magzine, 2020. 
+* [The Global landscape of neural networks](http://arxiv.org/abs/2007.01429). To appear in IEEE Signal Processing Magzine, 2020. 
 
 * [Max-sliced Wasserstein distance for fast GAN training](https://arxiv.org/abs/1904.05877),  
 Deshpande, I., Hu, Y.T., Sun, R., Pyrros, A., Siddiqui, N., Koyejo, S., Zhao, Z., Forsyth, D. and Schwing, A.G., 2019. Max-Sliced Wasserstein Distance and Its Use for GANs. CVPR 2019, Oral (5.58%).
