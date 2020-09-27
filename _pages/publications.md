@@ -23,24 +23,33 @@ author_profile: true
 
 Talk Slides
 ======
+Towards Better Global landscape of GANs: How 2 Lines of Code Change Makes Difference [[slides](
+https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
+
 Over-parameterized networks have no bad basins [[slides](https://www.dropbox.com/s/0a4bnsnwp7v0a47/NoBadBasin_Ruoyu%20talk.pdf?dl=0)]
 
 When Do Neural Networks Have No Bad Local Minima? (for ICML and NeurIPS'19 papers) [[slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)]
 
+
+
 PREPRINTS
 ======
 * [DEED: A General Quantization Scheme for Communication Efficiency in Bits](https://arxiv.org/abs/2006.11401), Tian Ye, Peijun Xiao, Ruoyu Sun.
-* [Optimization for deep learning: theory and algorithms](http://arxiv.org/abs/1912.08957). Ruoyu Sun. (Survey paper). Preprint. My recent courses IE598 "optimization theory for deep learning" and "mathematics of deep learning" (at PKU appliied math summer school) are partially based on this article.  
 * [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), Peijun Xiao, Zhisheng Xiao, Ruoyu Sun. Submitted.
 * [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413);[oo-version](http://www.optimization-online.org/DB_HTML/2019/10/7409.html) Tian Ding, Dawei Li, Ruoyu Sun. Preprint.
 * [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity](https://arxiv.org/abs/1912.13472), Shiyu Liang, Ruoyu Sun, Srikant. Preprint. 
 * [On the Benefit of Width for Neural Networks: Disappearance of Basins](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. Preprint. (previous title: [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations])
-* Designing a better global landscape for GAN. Under review. 
 
 
 PUBLICATIONS (by Time)
 ======
-* [The Global landscape of neural networks: An overview](http://arxiv.org/abs/2007.01429). (survey paper) Ruoyu Sun, Dawei Li, Shiyu Liang, Tian Ding, R Srikant. IEEE Signal Processing Magzine ([Special topics in "Non-convex optimization for signal processing and machine learning"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186141)), 2020.
+*  On understanding the global landscape of generative adversarial networks. Ruoyu Sun, Tiantian Fang, Alex Schwing. Neurips 2020 (Oral). Availalbe in arxiv soon.
+
+* A smoothed GDA algorithm for the nonconvex-concave min-max problem with an $\mathcal{O}\left(1/\epsilon^2\right)$ iteration complexity. Jiawei Zhang, Peijun Xiao, Ruoyu Sun, Zhi-Quan Luo. Neurips 2020. Will be availalbe in arxiv. 
+
+* [The Global landscape of neural networks: An overview](http://arxiv.org/abs/2007.01429). (survey paper) Ruoyu Sun, Dawei Li, Shiyu Liang, Tian Ding, R Srikant. IEEE Signal Processing Magzine ([Special topics in "Non-convex optimization for signal processing and machine learning"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186141)), 2020.  Compared to another survey which covers all aspects of optimization, this paper focuses on landscape and presents formal results. 
+
+* [Optimization for deep learning: theory and algorithms](http://arxiv.org/abs/1912.08957). Ruoyu Sun. (Survey paper). Journal of operations research society of china. My recent courses IE598 "optimization theory for deep learning" and "mathematics of deep learning" (at PKU appliied math summer school) are partially based on this article.  
 
 * [Max-sliced Wasserstein distance for fast GAN training](https://arxiv.org/abs/1904.05877),  
 Deshpande, I., Hu, Y.T., Sun, R., Pyrros, A., Siddiqui, N., Koyejo, S., Zhao, Z., Forsyth, D. and Schwing, A.G., 2019. Max-Sliced Wasserstein Distance and Its Use for GANs. CVPR 2019, Oral (5.58%).
