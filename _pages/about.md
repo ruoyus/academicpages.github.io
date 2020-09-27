@@ -43,6 +43,8 @@ Research Interests
 
 News
 ======
+* Sep 2020: Our paper "On the global landscape of generative adversaral networks" is accepted to Neurips 2020 as oral paper. 
+* Jun 2020: Our survey "[[On the global landscape of neural networks: an overview](https://arxiv.org/abs/2007.01429)]" has appeared in IEEE signal processing magazine! See 
 * Dec 2019: my survey "optimization for deep learning: theory and algorithms" is available at arxiv https://arxiv.org/abs/1912.08957 Comments are welcome. 
 * Oct 2019: our paper "spurious local minima exist for almost all over-parameterized neural networks" is available at optimizaiton online. 
 * Oct 2019: our paper "understanding two symmeterized orders by worst-case complexity" is available at arxiv. 
