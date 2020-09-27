@@ -43,20 +43,16 @@ PREPRINTS
 
 PUBLICATIONS (by Time)
 ======
-*  On understanding the global landscape of generative adversarial networks. 
-
+*  On understanding the global landscape of generative adversarial networks.  
 Ruoyu Sun, Tiantian Fang, Alex Schwing. Neurips 2020 (Oral). Availalbe in arxiv soon.
 
-* A smoothed GDA algorithm for the nonconvex-concave min-max problem with an $\mathcal{O}\left(1/\epsilon^2\right)$ iteration complexity.
-
+* A smoothed GDA algorithm for the nonconvex-concave min-max problem with an $\mathcal{O}\left(1/\epsilon^2\right)$ iteration complexity.  
 Jiawei Zhang, Peijun Xiao, Ruoyu Sun, Zhi-Quan Luo. Neurips 2020. Will be availalbe in arxiv. 
 
-* [The Global landscape of neural networks: An overview](http://arxiv.org/abs/2007.01429). (survey paper)
-
+* [The Global landscape of neural networks: An overview](http://arxiv.org/abs/2007.01429). (survey paper)  
 Ruoyu Sun, Dawei Li, Shiyu Liang, Tian Ding, R Srikant. IEEE Signal Processing Magzine ([Special topics in "Non-convex optimization for signal processing and machine learning"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186141)), 2020.  Compared to another survey which covers all aspects of optimization, this paper focuses on landscape and presents formal results. 
 
-* [Optimization for deep learning: theory and algorithms](http://arxiv.org/abs/1912.08957). 
-
+* [Optimization for deep learning: theory and algorithms](http://arxiv.org/abs/1912.08957).  
 Ruoyu Sun. (Survey paper). Journal of operations research society of china. My recent courses IE598 "optimization theory for deep learning" and "mathematics of deep learning" (at PKU appliied math summer school) are partially based on this article.  
 
 * [Max-sliced Wasserstein distance for fast GAN training](https://arxiv.org/abs/1904.05877),  
