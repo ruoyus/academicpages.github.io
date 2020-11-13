@@ -19,6 +19,27 @@ author_profile: true
 {% endfor %}
 -->
 
+
+- - -
+### Selected Publications
+*  [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926). [[arxiv](https://arxiv.org/abs/2011.04926)] [[link](https://papers.nips.cc/paper/2020/file/738a6457be8432bab553e21b4235dd97-Paper.pdf)] [[slides](
+https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
+Ruoyu Sun, Tiantian Fang, Alex Schwing. Neurips 2020 (Oral). 
+
+* Survey: [The Global landscape of neural networks: An overview](http://arxiv.org/abs/2007.01429). 
+Ruoyu Sun, Dawei Li, Shiyu Liang, Tian Ding, R Srikant. IEEE Signal Processing Magzine ([Special topics in "Non-convex optimization for signal processing and machine learning"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186141)), 2020.  Compared to another survey which covers all aspects of optimization, this paper focuses on landscape and presents formal results. 
+
+* Survey: [Optimization for deep learning: theory and algorithms](http://arxiv.org/abs/1912.08957). 
+Ruoyu Sun. (Survey paper). JORSC (Journal of operations research society of china). 
+
+* [Worst-case Complexity of Cyclic Coordinate Descent: O(n^2) Gap with Randomized Version](https://link.springer.com/article/10.1007/s10107-019-01437-5), [[arxiv](https://arxiv.org/abs/1604.07130)], 
+Ruoyu Sun, Yinyu Ye. Accepted to Mathematical Programming (Series A), 2019. 
+
+* [Guaranteed Matrix Completion via Nonconvex Factorization](https://ieeexplore.ieee.org/abstract/document/7536166),[[arxiv](https://arxiv.org/abs/1411.8003)], [[slides](https://www.dropbox.com/s/2adtsjrd2ldap4c/MC_Sun_Slides.pdf?dl=0)] [[short summary](https://dl.dropboxusercontent.com/u/45090901/Reading_MC_notes.pdf)] 
+Ruoyu Sun, Zhi-Quan Luo.  
+IEEE Transaction on Information Theory 2016; a shorter version has appeared at FOCS 2015.
+Honorable mention, 2015 INFORMS Optimization Society student paper prize.([prize page](https://www.informs.org/Archive/Community/Optimization-Society/Optimization-Society-Prizes/Student-Paper-Prize/2015))
+
 - - -
 
 Talk Slides
@@ -29,7 +50,6 @@ https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscap
 Over-parameterized networks have no bad basins [[slides](https://www.dropbox.com/s/0a4bnsnwp7v0a47/NoBadBasin_Ruoyu%20talk.pdf?dl=0)]
 
 When Do Neural Networks Have No Bad Local Minima? (for ICML and NeurIPS'19 papers) [[slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)]
-
 
 
 PREPRINTS
@@ -45,7 +65,7 @@ PUBLICATIONS (by Time)
 ======
 *  [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926). [[arxiv](https://arxiv.org/abs/2011.04926)] [[link](https://papers.nips.cc/paper/2020/file/738a6457be8432bab553e21b4235dd97-Paper.pdf)] [[slides](
 https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
-Ruoyu Sun, Tiantian Fang, Alex Schwing. Neurips 2020 (Oral). Availalbe in arxiv soon.
+Ruoyu Sun, Tiantian Fang, Alex Schwing. Neurips 2020 (Oral). 
 
 * A smoothed GDA algorithm for the nonconvex-concave min-max problem with an $$ \mathcal{O}\left(1/\epsilon^2\right) $$ iteration complexity. [arxiv](https://arxiv.org/abs/2010.15768)
 Jiawei Zhang, Peijun Xiao, Ruoyu Sun, Zhi-Quan Luo. Neurips 2020.
@@ -80,7 +100,7 @@ Previous version: [On the Expected Convergence of Randomly Permuted ADMM](https:
 2nd Place, 2015 INFORMS George Nicholson student paper competition.  
 Oral talk, NIPS 2015 workshop on optimization for machine learning ([workshop link](http://opt-ml.org/schedule.html)) 
 
-* [Guaranteed Matrix Completion via Nonconvex Factorization](https://ieeexplore.ieee.org/abstract/document/7536166),[[arxiv](https://arxiv.org/abs/1411.8003)], [[slides](https://www.dropbox.com/s/2adtsjrd2ldap4c/MC_Sun_Slides.pdf?dl=0)] [[short summary](https://dl.dropboxusercontent.com/u/45090901/Reading_MC_notes.pdf)]    
+* [Guaranteed Matrix Completion via Nonconvex Factorization](https://ieeexplore.ieee.org/abstract/document/7536166),[[arxiv](https://arxiv.org/abs/1411.8003)], [[slides](https://www.dropbox.com/s/2adtsjrd2ldap4c/MC_Sun_Slides.pdf?dl=0)] [[short summary](https://dl.dropboxusercontent.com/u/45090901/Reading_MC_notes.pdf)] 
 Ruoyu Sun, Zhi-Quan Luo.  
 IEEE Transaction on Information Theory 2016; a shorter version has appeared at FOCS 2015.
 Honorable mention, 2015 INFORMS Optimization Society student paper prize.([prize page](https://www.informs.org/Archive/Community/Optimization-Society/Optimization-Society-Prizes/Student-Paper-Prize/2015))
