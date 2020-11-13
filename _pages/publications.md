@@ -27,7 +27,7 @@ https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscap
 Ruoyu Sun, Tiantian Fang, Alex Schwing. Neurips 2020 (Oral). 
 
 * Survey: [The Global landscape of neural networks: An overview](http://arxiv.org/abs/2007.01429). 
-Ruoyu Sun, Dawei Li, Shiyu Liang, Tian Ding, R Srikant. IEEE Signal Processing Magzine ([Special topics in "Non-convex optimization for signal processing and machine learning"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186141)), 2020.  Compared to another survey which covers all aspects of optimization, this paper focuses on landscape and presents formal results. 
+Ruoyu Sun, Dawei Li, Shiyu Liang, Tian Ding, R Srikant. IEEE Signal Processing Magzine, 2020.  Compared to another survey which covers all aspects of optimization, this paper focuses on landscape and presents formal results. 
 
 * Survey: [Optimization for deep learning: theory and algorithms](http://arxiv.org/abs/1912.08957). 
 Ruoyu Sun. (Survey paper). JORSC (Journal of operations research society of china). 
