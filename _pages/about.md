@@ -60,6 +60,8 @@ News
 
 Professional Services
 ======
+Area chair for ICLR, NeurIPS, AISTATS, ICML. 
 Reviewer for
-*	Machine learning and computer science:  ICLR, NeurIPS, ICML, COLT, JMLR, FOCS, AISTATS.
+*	Machine learning and computer science:  ICLR, NeurIPS, ICML, COLT, FOCS, AISTATS, JMLR, Neural computation
 *	Optimization area: Mathematical Programming, SIAM Journal on Optimization, SIAM Journal on Computing, Pacific Journal of Optimization.
+* Signal processing and information theory: IEEE Transaction on Information Theory, IEEE Transaction on Signal Processing
