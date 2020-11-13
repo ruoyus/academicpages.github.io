@@ -39,24 +39,24 @@ Research Interests
 * **Optimization for deep learning**: lanscape analysis of neural-nets, GANs, Adam, adversarial robustness, etc.
 * **Non-convex optimization for machine learning**: neural networks, matrix factorization, etc.
 * **Large-scale optimization**: ADMM, coordinate descent, adaptive gradient methods, etc.
-* Other research interests: blockchain protocols, Information theory and wireless communications, such as interference alignment and base station association.
+* Other research interests: Information theory and wireless communications, such as interference alignment and base station association.
 
 **Selected works**
 ======
-* [[On the global landscape of neural networks: an overview](https://arxiv.org/abs/2007.01429)]
-* [[Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926)], NeurIPS 2020.
+* [On the global landscape of neural networks: an overview](https://arxiv.org/abs/2007.01429)
+* [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926), NeurIPS 2020.
 
 News
 ======
-* Sep 2020: Our paper [[Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926)] is accepted to NeurIPS 2020 as oral paper (1.1% of 9454 submissions).
-* Sep 2020: Our paper [[https://arxiv.org/abs/2010.15768](A Single-Loop Smoothed Gradient Descent-Ascent Algorithm for Nonconvex-Concave Min-Max Problems)] is accpeted to NeurIPS 2020. 
-* Jun 2020: Our survey "[[On the global landscape of neural networks: an overview](https://arxiv.org/abs/2007.01429)]" has appeared in IEEE signal processing magazine.
+* Sep 2020: Our paper [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926) (joint with Tiantian Fang, Alex Schwing)  is accepted to NeurIPS 2020 as oral paper (1.1% of 9454 submissions).
+* Sep 2020: Our paper [https://arxiv.org/abs/2010.15768](A Single-Loop Smoothed Gradient Descent-Ascent Algorithm for Nonconvex-Concave Min-Max Problems) (joint with Jiawei Zhang, Peijun Xiao, Zhi-Quan Luo) is accpeted to NeurIPS 2020. 
+* Jun 2020: Our survey "[[On the global landscape of neural networks: an overview](https://arxiv.org/abs/2007.01429)]" (joint with Srikant, Shiyu Liang, Dawei Li, Tian Ding) has appeared in IEEE SPM (signal processing magazine).
 * Dec 2019: my survey "optimization for deep learning: theory and algorithms" is available at arxiv https://arxiv.org/abs/1912.08957 Comments are welcome. 
 * Oct 2019: our paper "spurious local minima exist for almost all over-parameterized neural networks" is available at optimizaiton online. 
 * Oct 2019: our paper "understanding two symmeterized orders by worst-case complexity" is available at arxiv. 
 * Sep 2019: our paper "Worst-case complexity of cyclic coordinate descent: O(n^2) gap with randomized versions" is accepted by MP (Mathematical Programming).
 * Aug 2019: I organized a session on "Non-convex optimization for neural networks" at ICCOPT 2019, the triennial conference of contiuous optimization. 
-* Mar 2019: our paper Max-Sliced Wasserstein Distance and its use for GANs is accepted by CVPR 2019 as Oral (available later). 
+* Mar 2019: our paper Max-Sliced Wasserstein Distance and its use for GANs is accepted by CVPR 2019 as Oral. 
 * Jan 2019: our paper on Adam-type methods (joint with Xiangyi Chen, Sijia Liu and Mingyi Hong) is accepted by ICLR 2019. 
 * Dec 2018: our paper "On the efficiency of random permutation for ADMM and coordinate descent" is accepted by MOR (Mathematics of Operations Research).
 * Nov 2018: I gave a talk at Stanford ISL Colloquium (see slides here) on Nov 8, and Google Brain on Nov 9. 
