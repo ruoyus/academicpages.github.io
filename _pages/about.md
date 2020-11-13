@@ -41,9 +41,14 @@ Research Interests
 * **Large-scale optimization**: ADMM, coordinate descent, adaptive gradient methods, etc.
 * Other research interests: blockchain protocols, Information theory and wireless communications, such as interference alignment and base station association.
 
+**Selected works**
+======
+* [[On the global landscape of neural networks: an overview](https://arxiv.org/abs/2007.01429)]
+* [[Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926)], NeurIPS 2020.
+
 News
 ======
-* Sep 2020: Our paper [[On the global landscape of generative adversaral network](https://arxiv.org/abs/2011.04926)] is accepted to NeurIPS 2020 as oral paper (1.1% of 9454 submissions).
+* Sep 2020: Our paper [[Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926)] is accepted to NeurIPS 2020 as oral paper (1.1% of 9454 submissions).
 * Sep 2020: Our paper [[https://arxiv.org/abs/2010.15768](A Single-Loop Smoothed Gradient Descent-Ascent Algorithm for Nonconvex-Concave Min-Max Problems)] is accpeted to NeurIPS 2020. 
 * Jun 2020: Our survey "[[On the global landscape of neural networks: an overview](https://arxiv.org/abs/2007.01429)]" has appeared in IEEE signal processing magazine.
 * Dec 2019: my survey "optimization for deep learning: theory and algorithms" is available at arxiv https://arxiv.org/abs/1912.08957 Comments are welcome. 
