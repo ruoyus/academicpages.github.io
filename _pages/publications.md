@@ -47,7 +47,7 @@ PUBLICATIONS (by Time)
 https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
 Ruoyu Sun, Tiantian Fang, Alex Schwing. Neurips 2020 (Oral). Availalbe in arxiv soon.
 
-* A smoothed GDA algorithm for the nonconvex-concave min-max problem with an $\mathcal{O}\left(1/\epsilon^2\right)$ iteration complexity. [arxiv](https://arxiv.org/abs/2010.15768)
+* A smoothed GDA algorithm for the nonconvex-concave min-max problem with an $$\mathcal{O}\left(1/\epsilon^2\right)$$ iteration complexity. [arxiv](https://arxiv.org/abs/2010.15768)
 Jiawei Zhang, Peijun Xiao, Ruoyu Sun, Zhi-Quan Luo. Neurips 2020.
 
 * [The Global landscape of neural networks: An overview](http://arxiv.org/abs/2007.01429). (survey paper)  
