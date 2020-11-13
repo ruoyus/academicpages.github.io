@@ -24,7 +24,7 @@ author_profile: true
 # Selected Publications
 *  [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926). [[arxiv](https://arxiv.org/abs/2011.04926)] [[link](https://papers.nips.cc/paper/2020/file/738a6457be8432bab553e21b4235dd97-Paper.pdf)] [[slides](
 https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
-Ruoyu Sun, Tiantian Fang, Alex Schwing. Neurips 2020 (Oral). 
+Ruoyu Sun, Tiantian Fang, Alex Schwing. NeurIPS 2020 (Oral). 
 
 * Survey: [The Global landscape of neural networks: An overview](http://arxiv.org/abs/2007.01429). 
 Ruoyu Sun, Dawei Li, Shiyu Liang, Tian Ding, R Srikant. IEEE Signal Processing Magzine, 2020.  Compared to another survey which covers all aspects of optimization, this paper focuses on landscape and presents formal results. 
@@ -65,10 +65,10 @@ PUBLICATIONS (by Time)
 ======
 *  [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926). [[arxiv](https://arxiv.org/abs/2011.04926)] [[link](https://papers.nips.cc/paper/2020/file/738a6457be8432bab553e21b4235dd97-Paper.pdf)] [[slides](
 https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
-Ruoyu Sun, Tiantian Fang, Alex Schwing. Neurips 2020 (Oral). 
+Ruoyu Sun, Tiantian Fang, Alex Schwing. NeurIPS 2020 (Oral). 
 
 * A smoothed GDA algorithm for the nonconvex-concave min-max problem with an $$ \mathcal{O}\left(1/\epsilon^2\right) $$ iteration complexity. [arxiv](https://arxiv.org/abs/2010.15768)
-Jiawei Zhang, Peijun Xiao, Ruoyu Sun, Zhi-Quan Luo. Neurips 2020.
+Jiawei Zhang, Peijun Xiao, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2020.
 
 * [The Global landscape of neural networks: An overview](http://arxiv.org/abs/2007.01429). (survey paper)  
 Ruoyu Sun, Dawei Li, Shiyu Liang, Tian Ding, R Srikant. IEEE Signal Processing Magzine ([Special topics in "Non-convex optimization for signal processing and machine learning"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186141)), 2020.  Compared to another survey which covers all aspects of optimization, this paper focuses on landscape and presents formal results. 
