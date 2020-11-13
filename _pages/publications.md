@@ -32,6 +32,8 @@ Ruoyu Sun, Dawei Li, Shiyu Liang, Tian Ding, R Srikant. IEEE Signal Processing M
 * Survey: [Optimization for deep learning: theory and algorithms](http://arxiv.org/abs/1912.08957). 
 Ruoyu Sun. JORSC (Journal of operations research society of china) 2020.
 
+* [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity](https://arxiv.org/abs/1912.13472), Shiyu Liang, Ruoyu Sun, Srikant. Preprint. 
+
 * [Worst-case Complexity of Cyclic Coordinate Descent: O(n^2) Gap with Randomized Version](https://link.springer.com/article/10.1007/s10107-019-01437-5), [[arxiv](https://arxiv.org/abs/1604.07130)], 
 Ruoyu Sun, Yinyu Ye. Mathematical Programming (Series A), 2019. 
 
