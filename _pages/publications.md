@@ -43,7 +43,7 @@ PREPRINTS
 
 PUBLICATIONS (by Time)
 ======
-*  Towards a better global loss landscape of GANs. [[arxiv](https://arxiv.org/abs/2011.04926)] [[link](https://papers.nips.cc/paper/2020/file/738a6457be8432bab553e21b4235dd97-Paper.pdf)] [[slides](
+*  [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926). [[arxiv](https://arxiv.org/abs/2011.04926)] [[link](https://papers.nips.cc/paper/2020/file/738a6457be8432bab553e21b4235dd97-Paper.pdf)] [[slides](
 https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
 Ruoyu Sun, Tiantian Fang, Alex Schwing. Neurips 2020 (Oral). Availalbe in arxiv soon.
 
