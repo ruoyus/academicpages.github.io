@@ -26,6 +26,8 @@ author_profile: true
 https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
 Ruoyu Sun, Tiantian Fang, Alex Schwing. NeurIPS 2020 (Oral). 
 
+* [RMSprop can converge with proper hyper-parameter](https://openreview.net/forum?id=3UDSdyIcBDA) Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun, ICLR 2021 (Spotlight).
+
 * Survey: [The Global landscape of neural networks: An overview](http://arxiv.org/abs/2007.01429). 
 Ruoyu Sun, Dawei Li, Shiyu Liang, Tian Ding, R Srikant. IEEE Signal Processing Magzine, 2020.  Compared to another survey which covers all aspects of optimization, this paper focuses on landscape and presents formal results. 
 
@@ -65,6 +67,8 @@ PREPRINTS
 
 PUBLICATIONS (by Time)
 ======
+* [RMSprop can converge with proper hyper-parameter](https://openreview.net/forum?id=3UDSdyIcBDA) Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun, ICLR 2021 (Spotlight).
+
 *  [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926). [[arxiv](https://arxiv.org/abs/2011.04926)] [[link](https://papers.nips.cc/paper/2020/file/738a6457be8432bab553e21b4235dd97-Paper.pdf)] [[slides](
 https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
 Ruoyu Sun, Tiantian Fang, Alex Schwing. NeurIPS 2020 (Oral). 
