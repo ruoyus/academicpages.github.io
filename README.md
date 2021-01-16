@@ -1,4 +1,4 @@
-**This is the homepage of Ruoyu Sun, UIUC. Updated on 2021/01/16. **
+**This is the homepage of Ruoyu Sun, UIUC. Updated on 2021/01/16.**
 
 Below is the instruction for modifying the website.
 
