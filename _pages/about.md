@@ -48,6 +48,8 @@ Research Interests
 
 News
 ======
+* Our paper [RMSprop can converge with proper hyper-parameter] (Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun) has been accepted to ICLR 2021 as Spotlight.
+* Sep 2020: Our paper [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926) (joint with Tiantian Fang, Alex Schwing)  is accepted to NeurIPS 2020 as oral paper (1.1% of 9454 submissions).
 * Sep 2020: Our paper [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926) (joint with Tiantian Fang, Alex Schwing)  is accepted to NeurIPS 2020 as oral paper (1.1% of 9454 submissions).
 * Sep 2020: Our paper [https://arxiv.org/abs/2010.15768](A Single-Loop Smoothed Gradient Descent-Ascent Algorithm for Nonconvex-Concave Min-Max Problems) (joint with Jiawei Zhang, Peijun Xiao, Zhi-Quan Luo) is accpeted to NeurIPS 2020. 
 * Jun 2020: Our survey "[[On the global landscape of neural networks: an overview](https://arxiv.org/abs/2007.01429)]" (joint with Srikant, Shiyu Liang, Dawei Li, Tian Ding) has appeared in IEEE SPM (signal processing magazine).
