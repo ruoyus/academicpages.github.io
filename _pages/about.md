@@ -16,6 +16,7 @@ Recently, I have been studying optimization in deep learning, such as landscape 
 
 Perspective and current students interested in optimization/ML/AI are welcome to contact me. Undergraduate interns and visiting students/scholars are also welcome. Master students may check "advised master projects" in "Publications".
 
+To contact me, click the "email" icon on the left panel. 
 
 Assistant Professor
 ======
