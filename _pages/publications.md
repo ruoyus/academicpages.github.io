@@ -69,11 +69,11 @@ PUBLICATIONS (by Time)
 ======
 * [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), Peijun Xiao, Zhisheng Xiao, Ruoyu Sun. Accepted to SIAM Journal on Optimization, 2021. 
 
-* G. Akhil, M. Lavanya, R. Sun, N. Shukla, A. Kolbeinsson, “PenDer: Incorporating Shape Constraints via
-Penalized Derivatives”, AAAI 2021.
+* [PenDer: Incorporating Shape Constraints via
+Penalized Derivatives](https://ojs.aaai.org/index.php/AAAI/article/view/17373), G. Akhil, M. Lavanya, R. Sun, N. Shukla, A. Kolbeinsson, AAAI 2021.
 
-* Y. Li, Z. Wang, R. Sun and F. Lam, 2021. “Separation of Metabolites and Macromolecules for Short-TE 1H-
-MRSI Using Learned Component-Specific Representations”. IEEE transactions on medical imaging, 2021.
+* [Separation of Metabolites and Macromolecules for Short-TE 1H-
+MRSI Using Learned Component-Specific Representations](https://ieeexplore.ieee.org/abstract/document/9312607). Y. Li, Z. Wang, R. Sun and F. Lam, 2021. IEEE transactions on medical imaging, 2021.
 
 * [RMSprop can converge with proper hyper-parameter](https://openreview.net/forum?id=3UDSdyIcBDA)
 Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun. ICLR 2021 (Spotlight, 3.3% of 3000+ submissions). 
