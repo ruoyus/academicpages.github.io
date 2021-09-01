@@ -110,7 +110,7 @@ Ruoyu Sun, Yinyu Ye. Mathematical Programming (Series A), 2019.
 Wei Liu, Ruoyu Sun (corresponding author), Zhi-Quan Luo. IEEE Transactions on Communications 2019. Part of the paper has appeared at ICASSP 2014.  
 
 * [On the Efficiency of Random Permutation for ADMM and Coordinate Descent](https://pubsonline.informs.org/doi/10.1287/moor.2019.0990), [[arxiv](https://arxiv.org/abs/1503.06387v3)],  
-Ruoyu Sun, Zhi-Quan Luo, Yinyu Ye. Mathematics of Operations Research, 2018. [[video](https://simons.berkeley.edu/talks/ruoyu-sun-10-03-17)]  
+Ruoyu Sun, Zhi-Quan Luo, Yinyu Ye. Mathematics of Operations Research, 2019. [[video](https://simons.berkeley.edu/talks/ruoyu-sun-10-03-17)]  
 Previous version: [On the Expected Convergence of Randomly Permuted ADMM](https://arxiv.org/abs/1503.06387v2)  
 2nd Place, 2015 INFORMS George Nicholson student paper competition.  
 Oral talk, NIPS 2015 workshop on optimization for machine learning ([workshop link](http://opt-ml.org/schedule.html)) 
