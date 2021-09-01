@@ -69,12 +69,18 @@ PUBLICATIONS (by Time)
 ======
 * [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), Peijun Xiao, Zhisheng Xiao, Ruoyu Sun. Accepted to SIAM Journal on Optimization, 2021. 
 
+* G. Akhil, M. Lavanya, R. Sun, N. Shukla, A. Kolbeinsson, “PenDer: Incorporating Shape Constraints via
+Penalized Derivatives”, AAAI 2021.
+
+* Y. Li, Z. Wang, R. Sun and F. Lam, 2021. “Separation of Metabolites and Macromolecules for Short-TE 1H-
+MRSI Using Learned Component-Specific Representations”. IEEE transactions on medical imaging, 2021.
+
 * [RMSprop can converge with proper hyper-parameter](https://openreview.net/forum?id=3UDSdyIcBDA)
-Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun. ICLR 2021 (Spotlight). 
+Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun. ICLR 2021 (Spotlight, 3.3% of 3000+ submissions). 
 
 *  [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926). [[arxiv](https://arxiv.org/abs/2011.04926)] [[link](https://papers.nips.cc/paper/2020/file/738a6457be8432bab553e21b4235dd97-Paper.pdf)] [[slides](
 https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
-Ruoyu Sun, Tiantian Fang, Alex Schwing. NeurIPS 2020 (Oral). 
+Ruoyu Sun, Tiantian Fang, Alex Schwing. NeurIPS 2020 (Oral, 1.1% of 9500+ submissions). 
 
 * A smoothed GDA algorithm for the nonconvex-concave min-max problem with an $$ \mathcal{O}\left(1/\epsilon^2\right) $$ iteration complexity. [arxiv](https://arxiv.org/abs/2010.15768)
 Jiawei Zhang, Peijun Xiao, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2020.
@@ -83,7 +89,7 @@ Jiawei Zhang, Peijun Xiao, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2020.
 Ruoyu Sun, Dawei Li, Shiyu Liang, Tian Ding, R Srikant. IEEE Signal Processing Magzine ([Special topics in "Non-convex optimization for signal processing and machine learning"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186141)), 2020.  Compared to another survey which covers all aspects of optimization, this paper focuses on landscape and presents formal results. 
 
 * [Optimization for deep learning: theory and algorithms](http://arxiv.org/abs/1912.08957).  
-Ruoyu Sun. (Survey paper). Journal of operations research society of china. My recent courses IE598 "optimization theory for deep learning" and "mathematics of deep learning" (at PKU appliied math summer school) are partially based on this article.  
+Ruoyu Sun. (Survey paper). Journal of Operations Research Society of China (JORSC), 2021. My recent courses IE598 "optimization theory for deep learning" and "mathematics of deep learning" (at PKU appliied math summer school) are partially based on this article.  
 
 * [Max-sliced Wasserstein distance for fast GAN training](https://arxiv.org/abs/1904.05877),  
 Deshpande, I., Hu, Y.T., Sun, R., Pyrros, A., Siddiqui, N., Koyejo, S., Zhao, Z., Forsyth, D. and Schwing, A.G., 2019. Max-Sliced Wasserstein Distance and Its Use for GANs. CVPR 2019, Oral (5.58%).
