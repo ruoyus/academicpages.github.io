@@ -67,7 +67,7 @@ PREPRINTS
 
 PUBLICATIONS (by Time)
 ======
-* [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), Peijun Xiao, Zhisheng Xiao, Ruoyu Sun. Accepted to SIAM Journal on Optimization. 
+* [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), Peijun Xiao, Zhisheng Xiao, Ruoyu Sun. Accepted to SIAM Journal on Optimization, 2021. 
 
 * [RMSprop can converge with proper hyper-parameter](https://openreview.net/forum?id=3UDSdyIcBDA)
 Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun. ICLR 2021 (Spotlight). 
