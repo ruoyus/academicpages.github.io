@@ -22,7 +22,7 @@ author_profile: true
 
 - - -
 # Selected Works
-* [RMSprop can converge with proper hyper-parameter](https://openreview.net/forum?id=3UDSdyIcBDA)
+* [RMSprop converges with proper hyper-parameter](https://openreview.net/forum?id=3UDSdyIcBDA)
 Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun. ICLR 2021 (Spotlight). 
 
 *  [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926). [[arxiv](https://arxiv.org/abs/2011.04926)] [[link](https://papers.nips.cc/paper/2020/file/738a6457be8432bab553e21b4235dd97-Paper.pdf)] [[slides](
@@ -59,7 +59,6 @@ When Do Neural Networks Have No Bad Local Minima? (for ICML and NeurIPS'19 paper
 
 PREPRINTS
 ======
-* [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), Peijun Xiao, Zhisheng Xiao, Ruoyu Sun. Submitted.
 * [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413);[oo-version](http://www.optimization-online.org/DB_HTML/2019/10/7409.html) Tian Ding, Dawei Li, Ruoyu Sun. Preprint.
 * [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity](https://arxiv.org/abs/1912.13472), Shiyu Liang, Ruoyu Sun, Srikant. Preprint. 
 * [On the Benefit of Width for Neural Networks: Disappearance of Basins](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. Preprint. (previous title: [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations])
@@ -68,6 +67,8 @@ PREPRINTS
 
 PUBLICATIONS (by Time)
 ======
+* [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), Peijun Xiao, Zhisheng Xiao, Ruoyu Sun. Accepted to SIAM Journal on Optimization. 
+
 * [RMSprop can converge with proper hyper-parameter](https://openreview.net/forum?id=3UDSdyIcBDA)
 Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun. ICLR 2021 (Spotlight). 
 
