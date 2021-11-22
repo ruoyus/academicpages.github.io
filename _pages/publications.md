@@ -59,7 +59,6 @@ When Do Neural Networks Have No Bad Local Minima? (for ICML and NeurIPS'19 paper
 
 PREPRINTS
 ======
-* [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413);[oo-version](http://www.optimization-online.org/DB_HTML/2019/10/7409.html) Tian Ding, Dawei Li, Ruoyu Sun. Preprint.
 * [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity](https://arxiv.org/abs/1912.13472), Shiyu Liang, Ruoyu Sun, Srikant. Preprint. 
 * [On the Benefit of Width for Neural Networks: Disappearance of Basins](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. Preprint. (previous title: [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations])
 * [DEED: A General Quantization Scheme for Communication Efficiency in Bits](https://arxiv.org/abs/2006.11401), Tian Ye, Peijun Xiao, Ruoyu Sun.
@@ -67,6 +66,12 @@ PREPRINTS
 
 PUBLICATIONS (by Time)
 ======
+* [Faster Directional Convergence of Linear Neural Networks under Spherically Symmetric Data](https://proceedings.neurips.cc/paper/2021/hash/24ec8468b67314c2013d215b77034476-Abstract.html) Dachao Lin, Ruoyu Sun, Zhihua Zhang. NeurIPS 2021.
+
+* [When Expressivity Meets Trainability: Fewer than  Neurons Can Work](https://papers.nips.cc/paper/2021/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf)Jiawei Zhang*, Yushun Zhang*, Mingyi Hong, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2021.
+
+* [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413);[oo-version](http://www.optimization-online.org/DB_HTML/2019/10/7409.html) Tian Ding, Dawei Li, Ruoyu Sun. Accepted to MOR (Mathematics of Operations Research) 2021.
+
 * [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), Peijun Xiao, Zhisheng Xiao, Ruoyu Sun. Accepted to SIAM Journal on Optimization, 2021. 
 
 * [PenDer: Incorporating Shape Constraints via
