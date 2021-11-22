@@ -68,7 +68,7 @@ PUBLICATIONS (by Time)
 ======
 * [Faster Directional Convergence of Linear Neural Networks under Spherically Symmetric Data](https://proceedings.neurips.cc/paper/2021/hash/24ec8468b67314c2013d215b77034476-Abstract.html) Dachao Lin, Ruoyu Sun, Zhihua Zhang. NeurIPS 2021.
 
-* [When Expressivity Meets Trainability: Fewer than  Neurons Can Work](https://papers.nips.cc/paper/2021/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf)Jiawei Zhang*, Yushun Zhang*, Mingyi Hong, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2021.
+* [When Expressivity Meets Trainability: Fewer than  Neurons Can Work](https://papers.nips.cc/paper/2021/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf) Jiawei Zhang*, Yushun Zhang*, Mingyi Hong, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2021.
 
 * [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413) Tian Ding, Dawei Li, Ruoyu Sun. Accepted to MOR (Mathematics of Operations Research) 2021.
 
