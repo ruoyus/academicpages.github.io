@@ -62,6 +62,7 @@ PREPRINTS
 * [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity](https://arxiv.org/abs/1912.13472), Shiyu Liang, Ruoyu Sun, Srikant. Preprint. 
 * [On the Benefit of Width for Neural Networks: Disappearance of Basins](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. Preprint. (previous title: [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations])
 * [DEED: A General Quantization Scheme for Communication Efficiency in Bits](https://arxiv.org/abs/2006.11401), Tian Ye, Peijun Xiao, Ruoyu Sun.
+* [Achieving Small Test Error in Mildly Overparameterized Neural Networks](https://arxiv.org/abs/2104.11895) S Liang, R Sun, R Srikant.
 
 
 PUBLICATIONS (by Time)
