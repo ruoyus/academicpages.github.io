@@ -45,8 +45,8 @@ Ruoyu Sun, Zhi-Quan Luo.
 IEEE Transaction on Information Theory 2016; a shorter version has appeared at FOCS 2015.
 Honorable mention, 2015 INFORMS Optimization Society student paper prize.([prize page](https://www.informs.org/Archive/Community/Optimization-Society/Optimization-Society-Prizes/Student-Paper-Prize/2015))
 
-- - -
 
+- - -
 Talk Slides
 ======
 Towards Better Global landscape of GANs: How 2 Lines of Code Change Makes Difference [[slides](
@@ -70,7 +70,7 @@ PUBLICATIONS (by Time)
 
 * [When Expressivity Meets Trainability: Fewer than  Neurons Can Work](https://papers.nips.cc/paper/2021/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf)Jiawei Zhang*, Yushun Zhang*, Mingyi Hong, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2021.
 
-* [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413);[oo-version](http://www.optimization-online.org/DB_HTML/2019/10/7409.html) Tian Ding, Dawei Li, Ruoyu Sun. Accepted to MOR (Mathematics of Operations Research) 2021.
+* [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413) Tian Ding, Dawei Li, Ruoyu Sun. Accepted to MOR (Mathematics of Operations Research) 2021.
 
 * [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366), Peijun Xiao, Zhisheng Xiao, Ruoyu Sun. Accepted to SIAM Journal on Optimization, 2021. 
 
@@ -99,14 +99,14 @@ Ruoyu Sun. (Survey paper). Journal of Operations Research Society of China (JORS
 * [Max-sliced Wasserstein distance for fast GAN training](https://arxiv.org/abs/1904.05877),  
 Deshpande, I., Hu, Y.T., Sun, R., Pyrros, A., Siddiqui, N., Koyejo, S., Zhao, Z., Forsyth, D. and Schwing, A.G., 2019. Max-Sliced Wasserstein Distance and Its Use for GANs. CVPR 2019, Oral (5.58%).
 
-* [On the Convergence of A Class of Adam-Type Algorithms for Non-Convex Optimization](https://arxiv.org/abs/1808.02941),  
+* [On the Convergence of A Class of Adam-Type Algorithms for Non-Convex Optimization](https://arxiv.org/abs/1808.02941), 
 Xiangyi Chen, Sijia Liu, Ruoyu Sun, Mingyi Hong. ICLR 2019.
 
 * [Adding One Neuron Can Eliminate All Bad Local Minima](https://arxiv.org/abs/1805.08671) [[slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)],  
 Shiyu Liang, Ruoyu Sun, Jason Lee, R. Srikant. NeurIPS 2018. 
 
 * [Understanding the Loss Surface of Neural Networks for Binary Classification](https://arxiv.org/abs/1803.00909)[[slides](https://www.dropbox.com/s/zx2gnk7yb5hv2nk/RuoyuSun_andscape_public.pdf?dl=0)],  
-Shiyu Liang, Ruoyu Sun, Yixuan Li, R. Srikant. Part of the paper has appeared at ICML 2018. 
+Shiyu Liang, Ruoyu Sun, Yixuan Li, R. Srikant. ICML 2018. 
 
 * [Worst-case Complexity of Cyclic Coordinate Descent: O(n^2) Gap with Randomized Version](https://link.springer.com/article/10.1007/s10107-019-01437-5), [[arxiv](https://arxiv.org/abs/1604.07130)], 
 Ruoyu Sun, Yinyu Ye. Mathematical Programming (Series A), 2019. 
