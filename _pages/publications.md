@@ -46,8 +46,7 @@ IEEE Transaction on Information Theory 2016; a shorter version has appeared at F
 Honorable mention, 2015 INFORMS Optimization Society student paper prize.([prize page](https://www.informs.org/Archive/Community/Optimization-Society/Optimization-Society-Prizes/Student-Paper-Prize/2015))
 
 
-- - -
-# Talk Slides
+TALK SLIDES
 ======
 Towards Better Global landscape of GANs: How 2 Lines of Code Change Makes Difference [[slides](
 https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
