@@ -47,7 +47,7 @@ Honorable mention, 2015 INFORMS Optimization Society student paper prize.([prize
 
 
 - - -
-Talk Slides
+# Talk Slides
 ======
 Towards Better Global landscape of GANs: How 2 Lines of Code Change Makes Difference [[slides](
 https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
