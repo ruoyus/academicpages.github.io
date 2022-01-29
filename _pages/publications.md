@@ -58,14 +58,16 @@ When Do Neural Networks Have No Bad Local Minima? (for ICML and NeurIPS'19 paper
 
 PREPRINTS
 ======
-* [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity](https://arxiv.org/abs/1912.13472), Shiyu Liang, Ruoyu Sun, Srikant. Preprint. 
-* [On the Benefit of Width for Neural Networks: Disappearance of Basins](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. Preprint. (previous title: [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations])
 * [DEED: A General Quantization Scheme for Communication Efficiency in Bits](https://arxiv.org/abs/2006.11401), Tian Ye, Peijun Xiao, Ruoyu Sun.
 * [Achieving Small Test Error in Mildly Overparameterized Neural Networks](https://arxiv.org/abs/2104.11895) S Liang, R Sun, R Srikant.
 
 
 PUBLICATIONS (by Time)
 ======
+* [On the Benefit of Width for Neural Networks: Disappearance of Basins](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. Accepted to SIAM Journal on Optimization 2022. (previous title: [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations])
+
+* [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity](https://arxiv.org/abs/1912.13472), Shiyu Liang, Ruoyu Sun, Srikant. Accepted to SIAM Journal on Optimization 2021. 
+
 * [Faster Directional Convergence of Linear Neural Networks under Spherically Symmetric Data](https://proceedings.neurips.cc/paper/2021/hash/24ec8468b67314c2013d215b77034476-Abstract.html) Dachao Lin, Ruoyu Sun, Zhihua Zhang. NeurIPS 2021.
 
 * [When Expressivity Meets Trainability: Fewer than  Neurons Can Work](https://papers.nips.cc/paper/2021/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf) Jiawei Zhang*, Yushun Zhang*, Mingyi Hong, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2021.
