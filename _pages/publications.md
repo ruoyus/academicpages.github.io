@@ -64,6 +64,8 @@ PREPRINTS
 
 PUBLICATIONS (by Time)
 ======
+* [Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning](to come),  Haoxiang Wang, Yite Wang, Ruoyu Sun, Bo Li. Accepted to CVPR 2022.
+
 * [On the Benefit of Width for Neural Networks: Disappearance of Basins](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. Accepted to SIAM Journal on Optimization 2022. (previous title: [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations])
 
 * [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity](https://arxiv.org/abs/1912.13472), Shiyu Liang, Ruoyu Sun, Srikant. Accepted to SIAM Journal on Optimization 2021. 
