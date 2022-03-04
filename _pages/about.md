@@ -50,7 +50,8 @@ Research Interests
 News
 ======
 * Jan 2022: Our paper [On the Benefit of Width for Neural Networks: Disappearance of Basins](https://arxiv.org/pdf/1812.11039.pdf) (with Dawei, Tian) has been accepted to SIAM Journal on Optimization.
-* Nov 2021: Our paper [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413) (with Tian, Dawei) has been accepted to Mathematics of Operations Research.
+* Nov 2021: Our paper [Understanding Limitation of Two Symmeterized Orders by Worst-case Complexity](https://arxiv.org/abs/1910.04366) (with Peijun, Zhisheng) has been Accepted to SIAM Journal on Optimization. 
+* Oct 2021: Our paper [Spurious Local Minima Exist for Almost All Over-parameterized Neural Networks](https://arxiv.org/abs/1911.01413) (with Tian, Dawei) has been accepted to Mathematics of Operations Research.
 * Mar 2021: Our paper [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity](https://arxiv.org/abs/1912.13472) (with Shiyu, Srikant) has been accepted to SIAM Journal on Optimization.
 * Feb 2021: Our paper [RMSprop can converge with proper hyper-parameter] (Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun) has been accepted to ICLR 2021 as Spotlight.
 * Sep 2020: Our paper [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926) (joint with Tiantian Fang, Alex Schwing)  is accepted to NeurIPS 2020 as oral paper (1.1% of 9454 submissions).
