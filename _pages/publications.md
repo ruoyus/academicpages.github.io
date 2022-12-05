@@ -25,11 +25,11 @@ author_profile: true
 *	[Adam Can Converge Without Any Modiﬁcation on Update Rules](https://arxiv.org/abs/2208.09632v1#:~:text=Under%20an%20extra%20condition%20%28strong%20growth%20condition%29%2C%20Adam,hyperparameters%20without%20any%20modification%20on%20its%20update%20rules.), Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhi-Quan Luo, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
 * [RMSprop converges with proper hyper-parameter](https://openreview.net/forum?id=3UDSdyIcBDA)
-Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun. ICLR 2021 (Spotlight). 
+Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun. ICLR 2021 (**spotlight**). 
 
 *  [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926). [[arxiv](https://arxiv.org/abs/2011.04926)] [[link](https://papers.nips.cc/paper/2020/file/738a6457be8432bab553e21b4235dd97-Paper.pdf)] [[slides](
 https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
-Ruoyu Sun, Tiantian Fang, Alex Schwing. NeurIPS 2020 (Oral). 
+Ruoyu Sun, Tiantian Fang, Alex Schwing. NeurIPS 2020 (**oral**). 
 
 * Survey: [The Global landscape of neural networks: An overview](http://arxiv.org/abs/2007.01429). 
 Ruoyu Sun, Dawei Li, Shiyu Liang, Tian Ding, R Srikant. IEEE Signal Processing Magzine, 2020.  Compared to another survey which covers all aspects of optimization, this paper focuses on landscape and presents formal results. 
