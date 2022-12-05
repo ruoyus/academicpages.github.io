@@ -22,7 +22,7 @@ author_profile: true
 
 - - -
 # Selected Works
-*	[Adam Can Converge Without Any Modiﬁcation on Update Rules](https://arxiv.org/abs/2208.09632v1#:~:text=Under%20an%20extra%20condition%20%28strong%20growth%20condition%29%2C%20Adam,hyperparameters%20without%20any%20modification%20on%20its%20update%20rules.), Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhi-Quan Luo, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
+*	[Adam Can Converge Without Any Modiﬁcation on Update Rules](https://arxiv.org/abs/2208.09632v1#:~:text=Under%20an%20extra%20condition%20%28strong%20growth%20condition%29%2C%20Adam,hyperparameters%20without%20any%20modification%20on%20its%20update%20rules.), Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhi-Quan Luo, NeurIPS 2022 **spotlight**.
 
 * [RMSprop converges with proper hyper-parameter](https://openreview.net/forum?id=3UDSdyIcBDA)
 Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun. ICLR 2021 (**spotlight**). 
