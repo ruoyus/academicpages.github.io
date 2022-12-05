@@ -34,7 +34,7 @@ Professional Expeirence
 Department of Electrical and Computer Engineering (affiliated) <br />
 [University of Illinois at Urbana-Champaign](https://illinois.edu)
 
-**Visiting Researcher,** 
+**Visiting Researcher** (full-time),  
 Facebook Artificial Intelligence Research, 2016.06-2016.12.  
 
 **Post-doctoral Scholar,** 
