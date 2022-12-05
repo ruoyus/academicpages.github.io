@@ -27,10 +27,12 @@ Chinese University of Hong Kong, Shenzhen.
 Professional Expeirence
 ======
 **Assistant Professor**
+
 [Department of Industrial and Enterprise Systems Engineering](https://ise.illinois.edu)<br />
 [Coordinated Science Lab](https://csl.illinois.edu/) (affiliated)<br /> 
 Department of Electrical and Computer Engineering (affiliated) <br />
 [University of Illinois at Urbana-Champaign](https://illinois.edu)
+
 **Visiting Researcher,** Facebook Artificial Intelligence Research, 2016.06-2016.12.  
 **Post-doctoral Scholar,** Dept. of Management Science and Engineering, Stanford University (host: Yinyu Ye), 2015-2016.
 
