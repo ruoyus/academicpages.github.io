@@ -64,13 +64,13 @@ PREPRINTS
 
 PUBLICATIONS (by Time)
 ======
-*	[Adam Can Converge Without Any Modiﬁcation on Update Rules](https://arxiv.org/abs/2208.09632v1#:~:text=Under%20an%20extra%20condition%20%28strong%20growth%20condition%29%2C%20Adam,hyperparameters%20without%20any%20modification%20on%20its%20update%20rules.), Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhi-Quan Luo, NeurIPS 2022 *spotlight* (~5% of 10k submissions).
+*	[Adam Can Converge Without Any Modiﬁcation on Update Rules](https://arxiv.org/abs/2208.09632v1#:~:text=Under%20an%20extra%20condition%20%28strong%20growth%20condition%29%2C%20Adam,hyperparameters%20without%20any%20modification%20on%20its%20update%20rules.), Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhi-Quan Luo, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
-* [Stability Analysis and Generalization Bounds of Adversarial Training](https://openreview.net/pdf?id=78aj7sPX4s-)[arxiv](https://arxiv.org/abs/2210.00960) Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Jue Wang, Zhi-Quan Luo, NeurIPS 2022 *spotlight* (~5% of 10k submissions).
+* [Stability Analysis and Generalization Bounds of Adversarial Training](https://openreview.net/pdf?id=78aj7sPX4s-)[arxiv](https://arxiv.org/abs/2210.00960) Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Jue Wang, Zhi-Quan Luo, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
 * [DigGAN: Discriminator gradIent Gap Regularization for GAN Training with Limited Data], Tiantian Fang, Ruoyu Sun, Alex Schwing, NeurIPS 2022.
 
-* [Does Momentum Change the Implicit Regularization on Separable Data?] Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, NeurIPS 2022 *spotlight* (~5% of 10k submissions).
+* [Does Momentum Change the Implicit Regularization on Separable Data?] Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
 * [Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning](to come),  Haoxiang Wang, Yite Wang, Ruoyu Sun, Bo Li. Accepted to CVPR 2022.
 
@@ -93,11 +93,11 @@ Penalized Derivatives](https://ojs.aaai.org/index.php/AAAI/article/view/17373), 
 MRSI Using Learned Component-Specific Representations](https://ieeexplore.ieee.org/abstract/document/9312607). Y. Li, Z. Wang, R. Sun and F. Lam, 2021. IEEE transactions on medical imaging, 2021.
 
 * [RMSprop can converge with proper hyper-parameter](https://openreview.net/forum?id=3UDSdyIcBDA)
-Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun. ICLR 2021 (Spotlight, 3.3% of 3000+ submissions). 
+Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun. ICLR 2021 (**spotlight**, 3.3% of 3000+ submissions). 
 
 *  [Towards a better global loss landscape of GANs](https://arxiv.org/abs/2011.04926). [[arxiv](https://arxiv.org/abs/2011.04926)] [[link](https://papers.nips.cc/paper/2020/file/738a6457be8432bab553e21b4235dd97-Paper.pdf)] [[slides](
 https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
-Ruoyu Sun, Tiantian Fang, Alex Schwing. NeurIPS 2020 (Oral, 1.1% of 9500+ submissions). 
+Ruoyu Sun, Tiantian Fang, Alex Schwing. NeurIPS 2020 (**Oral**, 1.1% of 9500+ submissions). 
 
 * A smoothed GDA algorithm for the nonconvex-concave min-max problem with an $$ \mathcal{O}\left(1/\epsilon^2\right) $$ iteration complexity. [arxiv](https://arxiv.org/abs/2010.15768)
 Jiawei Zhang, Peijun Xiao, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2020.
