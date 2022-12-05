@@ -18,8 +18,9 @@ Perspective and current students interested in optimization/ML/AI are welcome to
 
 To contact me, click the "email" icon on the left panel. 
 
-Associate Professor
+Affiliation
 ======
+Associate Professor,
 School of Data Science,
 Chinese University of Hong Kong, Shenzhen.
 
