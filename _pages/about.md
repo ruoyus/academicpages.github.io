@@ -29,7 +29,7 @@ Chinese University of Hong Kong, Shenzhen.
 Professional Expeirence
 ======
 **Assistant Professor**, 2017-2022.  
-[Department of Industrial and Enterprise Systems Engineering](https://ise.illinois.edu)<br />, 
+[Department of Industrial and Enterprise Systems Engineering](https://ise.illinois.edu)<br />
 [Coordinated Science Lab](https://csl.illinois.edu/) (affiliated)<br /> 
 Department of Electrical and Computer Engineering (affiliated) <br />
 [University of Illinois at Urbana-Champaign](https://illinois.edu)
