@@ -51,7 +51,7 @@ News
 ======
 * Oct 2022: Our papers on Adam, GAN, implicit bias and adversarial generalization are accepted to NeurIPS 2022. Three of them are selected as spotlight papers (~5% of >10,000 submissions). Congratulations to all! 
 
-  In particular, in the paper on Adam, named "Adam Can Converge Without Any Modification on Update Rules", we proved that the original Adam with proper hyperparameters can converge with proper hyperparameters! (Yes, it is unknown before, except a tiny special case of Adam which is close to RMSProp is proved in our [prevous paper on RMSProp]((https://openreview.net/forum?id=3UDSdyIcBDA))).
+  In particular, in the paper on Adam, named "Adam Can Converge Without Any Modification on Update Rules", we proved that the original Adam with proper hyperparameters can converge! (Yes, it is unknown before, except a tiny special case of Adam which is close to RMSProp is proved in our [prevous paper on RMSProp]((https://openreview.net/forum?id=3UDSdyIcBDA))).
 
 * Feb 2022: Our paper "Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning", with Haoxiang Wang, Yite Wang, and Bo Li, is accepted to CVPR 2022.
 * Jan 2022: Our paper [On the Benefit of Width for Neural Networks: Disappearance of Basins](https://arxiv.org/pdf/1812.11039.pdf) (with Dawei, Tian) has been accepted to SIAM Journal on Optimization.
