@@ -22,8 +22,8 @@ To contact me, click the "email" icon on the left panel.
 
 Affiliation
 ======
-Associate Professor,
-School of Data Science,
+Associate Professor,  
+School of Data Science,  
 Chinese University of Hong Kong, Shenzhen.
 
 Professional Expeirence
