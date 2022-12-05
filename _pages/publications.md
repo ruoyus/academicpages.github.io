@@ -64,6 +64,14 @@ PREPRINTS
 
 PUBLICATIONS (by Time)
 ======
+*	[Adam Can Converge Without Any Modiﬁcation on Update Rules], Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhi-Quan Luo, NeurIPS 2022 spotlight (~5% of 10k submissions).
+
+* [Stability Analysis and Generalization Bounds of Adversarial Training] Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Jue Wang, Zhi-Quan Luo, NeurIPS 2022 spotlight (~5% of 10k submissions).
+
+* [DigGAN: Discriminator gradIent Gap Regularization for GAN Training with Limited Data], Tiantian Fang, Ruoyu Sun, Alex Schwing, NeurIPS 2022.
+
+* [Does Momentum Change the Implicit Regularization on Separable Data?] Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, NeurIPS 2022 spotlight (~5% of 10k submissions).
+
 * [Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning](to come),  Haoxiang Wang, Yite Wang, Ruoyu Sun, Bo Li. Accepted to CVPR 2022.
 
 * [On the Benefit of Width for Neural Networks: Disappearance of Basins](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. Accepted to SIAM Journal on Optimization 2022. (previous title: [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations])
