@@ -10,7 +10,7 @@ redirect_from:
 
 - - -
 Welcome to my homepage!
-I am an assitant professor at UIUC, studying optimization and machine learning (especially deep learning). Before joining UIUC, I was a visiting scientist at FAIR (Facebook AI Research). I was a postdoc at Stanford, obtained PhD from Univ. of Minnesota, and BS in math from Peking University. 
+I am an associate professor at Chinese University of Hong Kong, Shenzhen. I am studying optimization and machine learning (especially deep learning). Before joining CUHK(SZ), I was an assistant professor at UIUC, and was a visiting scientist at FAIR (Facebook AI Research). I was a postdoc at Stanford, obtained PhD from Univ. of Minnesota, and BS in math from Peking University. 
 
 Recently, I have been studying optimization in deep learning, such as landscape of neural-nets, GANs and Adam. I have written a survey "optimization for deep learning: theory and algorithms". The study of neural networks is an extension of my research on non-convex optimization for machine learning since PhD. My thesis is on non-convex matrix completion, and I provided one of the first geometrical analysis. Another direction I've been studying is the computation/iteration complexity of optimization algorithms, especially Adam, ADMM and coordinate descent. 
 
@@ -18,15 +18,18 @@ Perspective and current students interested in optimization/ML/AI are welcome to
 
 To contact me, click the "email" icon on the left panel. 
 
-Assistant Professor
+Associate Professor
 ======
+School of Data Science,
+Chinese University of Hong Kong, Shenzhen.
+
+Professional Expeirence
+======
+**Assistant Professor**
 [Department of Industrial and Enterprise Systems Engineering](https://ise.illinois.edu)<br />
 [Coordinated Science Lab](https://csl.illinois.edu/) (affiliated)<br /> 
 Department of Electrical and Computer Engineering (affiliated) <br />
 [University of Illinois at Urbana-Champaign](https://illinois.edu)
-
-Professional Expeirence
-======
 **Visiting Researcher,** Facebook Artificial Intelligence Research, 2016.06-2016.12.  
 **Post-doctoral Scholar,** Dept. of Management Science and Engineering, Stanford University (host: Yinyu Ye), 2015-2016.
 
