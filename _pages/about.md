@@ -23,8 +23,11 @@ To contact me, click the "email" icon on the left panel.
 Appointment
 ======
 **Associate Professor (tenured)**, School of Data Science, Chinese University of Hong Kong, Shenzhen.
+
 Senior Research Scientist, Shenzhen Institute of Big Data. 
+
 Vice Chair, Shenzhen International Center for Industrial and Applied Mathematics.
+
 Adjunct Associate Professor, UIUC. 
 
 Past Professional Expeirence
