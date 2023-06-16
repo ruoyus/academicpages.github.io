@@ -10,11 +10,11 @@ redirect_from:
 
 - - -
 Welcome to my homepage!
-I am an associate professor at Chinese University of Hong Kong, Shenzhen. My major interests are optimization and deep learning, and mostly recently, large foundational models. 
+I am an associate professor at Chinese University of Hong Kong, Shenzhen. My major interests are optimization and deep learning, and mostly recently, **large foundational models**. 
 
-Previously I was an tenure-track assistant professor at UIUC, and was a visiting scientist at FAIR (Facebook AI Research, now called Meta AI). I was a postdoc at Stanford, obtained PhD from Univ. of Minnesota, and BS in math from Peking University. 
+Previously I was an tenure-track assistant professor at **UIUC**, and was a visiting scientist at **FAIR** (Facebook AI Research, now called Meta AI). I was a postdoc at **Stanford**, obtained PhD from **Univ. of Minnesota**, and BS in math from **Peking University**. 
 
-My recent interests include theory and algorthms of large foundation models, neural-net compression, landscape of neural-nets, GANs and Adam. I have written a survey "optimization for deep learning: an overview". I provided one of the first geometrical analysis for non-convex matrix completion. I also studied computation/iteration complexity of optimization algorithms, especially Adam, ADMM and coordinate descent. I have been working on communication networks as well. 
+My recent interests include **theory and algorthms of large foundation models**, generative AI, learning-assisted optimization, neural-net compression, landscape of neural-nets and Adam. I have written a survey "optimization for deep learning: an overview". I provided one of the first geometrical analysis for non-convex matrix completion. Besides, I have been working on: (1) large-scale optimization algorithms, especially Adam, ADMM and coordinate descent. (2) communication networks. 
 
 **Recruiting**: 
   We (as part of CUHK-SZ, SRIBD, SICIAM) have multiple positions for research scientists, research engineer, postdoc, PhD students, visiting scholars, visiting students, undergrad interns. 
