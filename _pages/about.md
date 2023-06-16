@@ -10,9 +10,9 @@ redirect_from:
 
 - - -
 Welcome to my homepage!
-I am an associate professor at Chinese University of Hong Kong, Shenzhen. My major interests are optimization and deep learning, and mostly recently, **large foundational models**. 
+I am an associate professor at **Chinese University of Hong Kong, Shenzhen**. My major interests are optimization and deep learning, and mostly recently, **large foundational models**. 
 
-Previously I was an tenure-track assistant professor at **UIUC**, and was a visiting scientist at **FAIR** (Facebook AI Research, now called Meta AI). I was a postdoc at **Stanford**, obtained PhD from **Univ. of Minnesota**, and BS in math from **Peking University**. 
+Previously I was a tenure-track assistant professor at **UIUC**, and was a visiting scientist at **FAIR** (Facebook AI Research, now called Meta AI). I was a postdoc at **Stanford**, obtained PhD from **Univ. of Minnesota**, and BS in math from **Peking University**. 
 
 My recent interests include **theory and algorthms of large foundation models**, generative AI, learning-assisted optimization, neural-net compression, landscape of neural-nets and Adam. 
 I'm especially interested in nonconvex optimization: (a) I have written a survey "optimization for deep learning: an overview"; (b) I provided one of the first geometrical analysis for non-convex matrix completion. 
