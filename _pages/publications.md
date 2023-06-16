@@ -72,7 +72,7 @@ PUBLICATIONS (by Time)
 
 * [Stability Analysis and Generalization Bounds of Adversarial Training](https://openreview.net/pdf?id=78aj7sPX4s-)[arxiv](https://arxiv.org/abs/2210.00960) Jiancong Xiao, Yanbo Fan, Ruoyu Sun, Jue Wang, Zhi-Quan Luo, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
-* [DigGAN: Discriminator gradIent Gap Regularization for GAN Training with Limited Data], Tiantian Fang, Ruoyu Sun, Alex Schwing, NeurIPS 2022.
+* [DigGAN: Discriminator gradIent Gap Regularization for GAN Training with Limited Data](https://openreview.net/pdf?id=azBVn74t_2), [arxiv]([https://arxiv.org/abs/2211.14694]) Tiantian Fang, Ruoyu Sun, Alex Schwing, NeurIPS 2022.
 
 * [Does Momentum Change the Implicit Regularization on Separable Data?] Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
