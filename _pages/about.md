@@ -18,13 +18,15 @@ Recently, I have been studying optimization in deep learning, such as landscape 
 
 Perspective and current students interested in optimization/ML/AI are welcome to contact me. Undergraduate interns and visiting students/scholars are also welcome. Master students may check "advised master projects" in "Publications".
 
-To contact me, click the "email" icon on the left panel. 
+**Recruiting**: 
+  We (as part of CUHK-SZ, SRIBD, SICIAM) have multiple positions for research scientists, research engineer, postdoc, PhD students, visiting scholars, visiting students. 
+  If you are interested in LLM, AI, deep learning, optimization and etc., please feel free to contact me at sunruoyu@cuhk.edu.cn. If possible, attach your CV. 
 
 Appointment
 ======
 **Associate Professor (tenured)**, School of Data Science, Chinese University of Hong Kong, Shenzhen. \\
-Senior Research Scientist, Shenzhen Institute of Big Data.  \\
-Vice Chair, Shenzhen International Center for Industrial and Applied Mathematics. \\
+Senior Research Scientist, Shenzhen Institute of Big Data (SRIBD).  \\
+Vice Chair, Shenzhen International Center for Industrial and Applied Mathematics (SICIAM). \\
 Adjunct Associate Professor, UIUC. 
 
 Past Professional Expeirence
