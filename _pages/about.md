@@ -10,16 +10,14 @@ redirect_from:
 
 - - -
 Welcome to my homepage!
-I am an associate professor at Chinese University of Hong Kong, Shenzhen. I am studying optimization and machine learning (especially deep learning), and mostly recently, large foundational models. 
+I am an associate professor at Chinese University of Hong Kong, Shenzhen. My major interests are optimization and deep learning, and mostly recently, large foundational models. 
 
-Previously I was an tenure-track assistant professor at UIUC, and was a visiting scientist at FAIR (Facebook AI Research). I was a postdoc at Stanford, obtained PhD from Univ. of Minnesota, and BS in math from Peking University. 
+Previously I was an tenure-track assistant professor at UIUC, and was a visiting scientist at FAIR (Facebook AI Research, now called Meta AI). I was a postdoc at Stanford, obtained PhD from Univ. of Minnesota, and BS in math from Peking University. 
 
-Recently, I have been studying optimization in deep learning, such as landscape of neural-nets, GANs and Adam. I have written a survey "optimization for deep learning: theory and algorithms". The study of neural networks is an extension of my research on non-convex optimization for machine learning since PhD. My thesis is on non-convex matrix completion, and I provided one of the first geometrical analysis. Another direction I've been studying is the computation/iteration complexity of optimization algorithms, especially Adam, ADMM and coordinate descent. 
-
-Perspective and current students interested in optimization/ML/AI are welcome to contact me. Undergraduate interns and visiting students/scholars are also welcome. Master students may check "advised master projects" in "Publications".
+My recent interests include theory and algorthms of large foundation models, neural-net compression, landscape of neural-nets, GANs and Adam. I have written a survey "optimization for deep learning: an overview". I provided one of the first geometrical analysis for non-convex matrix completion. I also studied computation/iteration complexity of optimization algorithms, especially Adam, ADMM and coordinate descent. I have been working on communication networks as well. 
 
 **Recruiting**: 
-  We (as part of CUHK-SZ, SRIBD, SICIAM) have multiple positions for research scientists, research engineer, postdoc, PhD students, visiting scholars, visiting students. 
+  We (as part of CUHK-SZ, SRIBD, SICIAM) have multiple positions for research scientists, research engineer, postdoc, PhD students, visiting scholars, visiting students, undergrad interns. 
   If you are interested in LLM, AI, deep learning, optimization and etc., please feel free to contact me at sunruoyu@cuhk.edu.cn. If possible, attach your CV. 
 
 Appointment
