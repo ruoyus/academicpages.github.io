@@ -10,7 +10,7 @@ redirect_from:
 
 - - -
 Welcome to my homepage!
-I am an associate professor at Chinese University of Hong Kong, Shenzhen. I am studying optimization and machine learning (especially deep learning). 
+I am an associate professor at Chinese University of Hong Kong, Shenzhen. I am studying optimization and machine learning (especially deep learning), and mostly recently, large foundational models. 
 
 Previously I was an tenure-track assistant professor at UIUC, and was a visiting scientist at FAIR (Facebook AI Research). I was a postdoc at Stanford, obtained PhD from Univ. of Minnesota, and BS in math from Peking University. 
 
