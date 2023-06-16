@@ -12,7 +12,7 @@ redirect_from:
 Welcome to my homepage!
 I am an associate professor at Chinese University of Hong Kong, Shenzhen. I am studying optimization and machine learning (especially deep learning). 
 
-Previously I was an assistant professor at UIUC, and was a visiting scientist at FAIR (Facebook AI Research). I was a postdoc at Stanford, obtained PhD from Univ. of Minnesota, and BS in math from Peking University. 
+Previously I was an tenure-track assistant professor at UIUC, and was a visiting scientist at FAIR (Facebook AI Research). I was a postdoc at Stanford, obtained PhD from Univ. of Minnesota, and BS in math from Peking University. 
 
 Recently, I have been studying optimization in deep learning, such as landscape of neural-nets, GANs and Adam. I have written a survey "optimization for deep learning: theory and algorithms". The study of neural networks is an extension of my research on non-convex optimization for machine learning since PhD. My thesis is on non-convex matrix completion, and I provided one of the first geometrical analysis. Another direction I've been studying is the computation/iteration complexity of optimization algorithms, especially Adam, ADMM and coordinate descent. 
 
@@ -20,13 +20,14 @@ Perspective and current students interested in optimization/ML/AI are welcome to
 
 To contact me, click the "email" icon on the left panel. 
 
-Affiliation
+Appointment
 ======
-Associate Professor,  
-School of Data Science,  
-Chinese University of Hong Kong, Shenzhen.
+**Associate Professor (tenured)**, School of Data Science, Chinese University of Hong Kong, Shenzhen.
+Senior Research Scientist, Shenzhen Institute of Big Data. 
+Vice Chair, Shenzhen International Center for Industrial and Applied Mathematics.
+Adjunct Associate Professor, UIUC. 
 
-Professional Expeirence
+Past Professional Expeirence
 ======
 **Assistant Professor**, 2017-2022.  
 [Department of Industrial and Enterprise Systems Engineering](https://ise.illinois.edu)<br />
@@ -47,6 +48,7 @@ Education
 
 Research Interests
 ======
+* **Large language models**: theory, fine-tuning, compression, optimization algorithm, domain-specific application
 * **Optimization for deep learning**: lanscape analysis of neural-nets, GANs, Adam, adversarial robustness, etc.
 * **Non-convex optimization for machine learning**: neural networks, matrix factorization, etc.
 * **Large-scale optimization**: ADMM, coordinate descent, adaptive gradient methods, etc.
@@ -59,6 +61,8 @@ Research Interests
 
 News
 ======
+* May 2023: Our papers on learning to optimization, foresight pruning have appeared in ICLR 2023.
+
 * Oct 2022: Our papers on Adam, GAN, implicit bias and adversarial generalization are accepted to NeurIPS 2022. Three of them are selected as spotlight papers (~5% of >10,000 submissions). Congratulations to all! 
 
   In particular, in the paper on Adam, named "Adam Can Converge Without Any Modification on Update Rules", we proved that the original Adam with proper hyperparameters can converge! (Yes, it is unknown before, except a tiny special case of Adam which is close to RMSProp is proved in our [prevous paper on RMSProp]((https://openreview.net/forum?id=3UDSdyIcBDA))).
