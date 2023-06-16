@@ -74,7 +74,7 @@ PUBLICATIONS (by Time)
 
 * [DigGAN: Discriminator gradIent Gap Regularization for GAN Training with Limited Data](https://openreview.net/pdf?id=azBVn74t_2), [arxiv]([https://arxiv.org/abs/2211.14694]) Tiantian Fang, Ruoyu Sun, Alex Schwing, NeurIPS 2022.
 
-* [Does Momentum Change the Implicit Regularization on Separable Data?] Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
+* [Does Momentum Change the Implicit Regularization on Separable Data?](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ab3f6bbe121a8f7a0263a9b393000741-Abstract-Conference.html) Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
 * [Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning](to come),  Haoxiang Wang, Yite Wang, Ruoyu Sun, Bo Li. Accepted to CVPR 2022.
 
