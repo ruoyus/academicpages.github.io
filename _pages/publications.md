@@ -76,7 +76,7 @@ PUBLICATIONS (by Time)
 
 * [Does Momentum Change the Implicit Regularization on Separable Data?](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ab3f6bbe121a8f7a0263a9b393000741-Abstract-Conference.html) Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
-* [Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning](to come),  Haoxiang Wang, Yite Wang, Ruoyu Sun, Bo Li. Accepted to CVPR 2022.
+* [Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Global_Convergence_of_MAML_and_Theory-Inspired_Neural_Architecture_Search_for_CVPR_2022_paper.pdf),  Haoxiang Wang, Yite Wang, Ruoyu Sun, Bo Li. Accepted to CVPR 2022.
 
 * [On the Benefit of Width for Neural Networks: Disappearance of Basins](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. Accepted to SIAM Journal on Optimization 2022. (previous title: [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations])
 
