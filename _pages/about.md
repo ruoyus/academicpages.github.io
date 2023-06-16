@@ -24,9 +24,9 @@ Besides, I have been working on: (1) large-scale optimization algorithms, especi
 
 Appointment
 ======
-**Associate Professor (tenured)**, School of Data Science, Chinese University of Hong Kong, Shenzhen. \\
-Senior Research Scientist, Shenzhen Institute of Big Data (SRIBD).  \\
-Vice Chair, Shenzhen International Center for Industrial and Applied Mathematics (SICIAM). \\
+**Associate Professor (tenured)**, School of Data Science, Chinese University of Hong Kong, Shenzhen. <br />
+Senior Research Scientist, Shenzhen Institute of Big Data (SRIBD).  <br />
+Vice Chair, Shenzhen International Center for Industrial and Applied Mathematics (SICIAM). <br />
 Adjunct Associate Professor, UIUC. 
 
 Past Professional Expeirence
