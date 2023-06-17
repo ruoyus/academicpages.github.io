@@ -108,7 +108,7 @@ Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun. ICLR 2021 (**spotlight**, 3.3% of
 https://github.com/ruoyus/ruoyus.github.io/blob/master/files/Slides_GAN_landscape_2020.pdf)]
 Ruoyu Sun, Tiantian Fang, Alex Schwing. NeurIPS 2020 (**Oral**, 1.1% of 9500+ submissions). 
 
-* A smoothed GDA algorithm for the nonconvex-concave min-max problem with an $$ \mathcal{O}\left(1/\epsilon^2\right) $$ iteration complexity. [arxiv](https://arxiv.org/abs/2010.15768)
+* A smoothed GDA algorithm for the nonconvex-concave min-max problem with an $ \mathcal{O}\left(1/\epsilon^2\right) $ iteration complexity. [arxiv](https://arxiv.org/abs/2010.15768)
 Jiawei Zhang, Peijun Xiao, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2020.
 
 * [The Global landscape of neural networks: An overview](http://arxiv.org/abs/2007.01429). (survey paper)  
