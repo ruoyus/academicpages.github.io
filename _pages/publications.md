@@ -67,7 +67,7 @@ PREPRINTS
 PUBLICATIONS (by Time)
 ======
 * [A GNN-Guided Predict-and-Search Framework for Mixed-Integer Linear Programming](https://openreview.net/forum?id=pHMpgT5xWaE) ([arxiv](https://arxiv.org/pdf/2302.05636.pdf))
-Qingyu Han $^+$, Linxin Yang $^+$, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang $^*$, Ruoyu Sun $^*$, Xiaodong Luo. ICLR 2023. <br />
+Qingyu Han $^+$, Linxin Yang $^+$, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang $$^*$$, Ruoyu Sun $$^*$$, Xiaodong Luo. ICLR 2023. <br />
 $^+$: co-first author; $^*$: co-corresponding author
 
 * [NTK-SAP: Improving neural network pruning by aligning training dynamics](https://openreview.net/forum?id=-5EWhW_4qWP) Yite Wang, Dawei Li, Ruoyu Sun. ICLR 2023
@@ -80,9 +80,7 @@ $^+$: co-first author; $^*$: co-corresponding author
 
 * [Does Momentum Change the Implicit Regularization on Separable Data?](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ab3f6bbe121a8f7a0263a9b393000741-Abstract-Conference.html) Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
-* [Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Global_Convergence_of_MAML_and_Theory-Inspired_Neural_Architecture_Search_for_CVPR_2022_paper.pdf),  Haoxiang Wang $^+$, Yite Wang $^+$, Ruoyu Sun, Bo Li. CVPR 2022.
-<br />
-$^+$: co-first author
+* [Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Global_Convergence_of_MAML_and_Theory-Inspired_Neural_Architecture_Search_for_CVPR_2022_paper.pdf),  Haoxiang Wang $^+$, Yite Wang $^+$, Ruoyu Sun, Bo Li. CVPR 2022.  <br /> $^+$: co-first author
 
 * [On the Benefit of Width for Neural Networks: Disappearance of Basins](https://epubs.siam.org/doi/10.1137/21M1394205) [arxiv](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. SIAM Journal on Optimization 2022. (previous title: [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations])
 
