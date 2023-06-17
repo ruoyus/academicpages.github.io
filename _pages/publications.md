@@ -68,7 +68,7 @@ PUBLICATIONS (by Time)
 ======
 $^+$: co-first author; $^{\*}$: corresponding author
 
-* [A GNN-Guided Predict-and-Search Framework for Mixed-Integer Linear Programming](https://openreview.net/forum?id=pHMpgT5xWaE) ([arxiv](https://arxiv.org/pdf/2302.05636.pdf))
+* [A GNN-Guided Predict-and-Search Framework for Mixed-Integer Linear Programming](https://openreview.net/forum?id=pHMpgT5xWaE) [[arxiv](https://arxiv.org/pdf/2302.05636.pdf)]
 Qingyu Han $^+$, Linxin Yang $^+$, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang $^{\*}$, Ruoyu Sun $^{\*}$, Xiaodong Luo. ICLR 2023. <br />
 
 * [NTK-SAP: Improving neural network pruning by aligning training dynamics](https://openreview.net/forum?id=-5EWhW_4qWP) Yite Wang, Dawei Li, Ruoyu Sun. ICLR 2023
@@ -77,13 +77,13 @@ Qingyu Han $^+$, Linxin Yang $^+$, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang
 
 * [Stability Analysis and Generalization Bounds of Adversarial Training](https://openreview.net/pdf?id=78aj7sPX4s-)[arxiv](https://arxiv.org/abs/2210.00960) Jiancong Xiao, Yanbo Fan, Ruoyu Sun $^{\*}$, Jue Wang $^{\*}$, Zhi-Quan Luo, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
-* [DigGAN: Discriminator gradIent Gap Regularization for GAN Training with Limited Data](https://openreview.net/pdf?id=azBVn74t_2), [arxiv]([https://arxiv.org/abs/2211.14694]) Tiantian Fang, Ruoyu Sun, Alex Schwing, NeurIPS 2022.
+* [DigGAN: Discriminator gradIent Gap Regularization for GAN Training with Limited Data](https://openreview.net/pdf?id=azBVn74t_2), [[arxiv]([https://arxiv.org/abs/2211.14694])] Tiantian Fang, Ruoyu Sun, Alex Schwing, NeurIPS 2022.
 
 * [Does Momentum Change the Implicit Regularization on Separable Data?](https://proceedings.neurips.cc/paper_files/paper/2022/hash/ab3f6bbe121a8f7a0263a9b393000741-Abstract-Conference.html) Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
 * [Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Global_Convergence_of_MAML_and_Theory-Inspired_Neural_Architecture_Search_for_CVPR_2022_paper.pdf),  Haoxiang Wang $^+$, Yite Wang $^+$, Ruoyu Sun, Bo Li. CVPR 2022.  <br /> $^+$: co-first author
 
-* [On the Benefit of Width for Neural Networks: Disappearance of Basins](https://epubs.siam.org/doi/10.1137/21M1394205) [arxiv](https://arxiv.org/pdf/1812.11039.pdf),  Dawei Li, Tian Ding, Ruoyu Sun. SIAM Journal on Optimization 2022. (previous title: [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations])
+* [On the Benefit of Width for Neural Networks: Disappearance of Basins](https://epubs.siam.org/doi/10.1137/21M1394205) [[arxiv](https://arxiv.org/pdf/1812.11039.pdf)],  Dawei Li, Tian Ding, Ruoyu Sun. SIAM Journal on Optimization 2022. (previous title: [Over-Parameterized Deep Neural Networks Have No Strict Local Minima For Any Continuous Activations])
 
 * [Revisiting Landscape Analysis for Neural-networks: Eliminating Decreasing Paths to Infinity](https://arxiv.org/abs/1912.13472), Shiyu Liang, Ruoyu Sun, Srikant. SIAM Journal on Optimization 2021. 
 
