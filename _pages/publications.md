@@ -67,14 +67,14 @@ PREPRINTS
 PUBLICATIONS (by Time)
 ======
 * [A GNN-Guided Predict-and-Search Framework for Mixed-Integer Linear Programming](https://openreview.net/forum?id=pHMpgT5xWaE) ([arxiv](https://arxiv.org/pdf/2302.05636.pdf))
-Qingyu Han $^+$, Linxin Yang $^+$, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang  $^{\*}$: co-corresponding author, Ruoyu Sun $$^*$$, Xiaodong Luo. ICLR 2023. <br />
-$^+$: co-first author; $^*$: co-corresponding author
+Qingyu Han $^+$, Linxin Yang $^+$, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang $^{\*}$, Ruoyu Sun $^{\*}$, Xiaodong Luo. ICLR 2023. <br />
+$^+$: co-first author; $^{\*}$: co-corresponding author
 
 * [NTK-SAP: Improving neural network pruning by aligning training dynamics](https://openreview.net/forum?id=-5EWhW_4qWP) Yite Wang, Dawei Li, Ruoyu Sun. ICLR 2023
 
 *	[Adam Can Converge Without Any Modiﬁcation on Update Rules](https://arxiv.org/abs/2208.09632v1#:~:text=Under%20an%20extra%20condition%20%28strong%20growth%20condition%29%2C%20Adam,hyperparameters%20without%20any%20modification%20on%20its%20update%20rules.), Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun $^*$, Zhi-Quan Luo, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
-* [Stability Analysis and Generalization Bounds of Adversarial Training](https://openreview.net/pdf?id=78aj7sPX4s-)[arxiv](https://arxiv.org/abs/2210.00960) Jiancong Xiao, Yanbo Fan, Ruoyu Sun $^*$, Jue Wang $^*$, Zhi-Quan Luo, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
+* [Stability Analysis and Generalization Bounds of Adversarial Training](https://openreview.net/pdf?id=78aj7sPX4s-)[arxiv](https://arxiv.org/abs/2210.00960) Jiancong Xiao, Yanbo Fan, Ruoyu Sun $^{\*}$, Jue Wang $^{\*}$, Zhi-Quan Luo, NeurIPS 2022 **spotlight** (~5% of 10k submissions).
 
 * [DigGAN: Discriminator gradIent Gap Regularization for GAN Training with Limited Data](https://openreview.net/pdf?id=azBVn74t_2), [arxiv]([https://arxiv.org/abs/2211.14694]) Tiantian Fang, Ruoyu Sun, Alex Schwing, NeurIPS 2022.
 
