@@ -67,7 +67,7 @@ PREPRINTS
 PUBLICATIONS (by Time)
 ======
 * [A GNN-Guided Predict-and-Search Framework for Mixed-Integer Linear Programming](https://openreview.net/forum?id=pHMpgT5xWaE) [arxiv](https://arxiv.org/pdf/2302.05636.pdf)
-Qingyu Han $^+$, Linxin Yang $^+$, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang $^*$, Ruoyu Sun $^*$, Xiaodong Luo. ICLR 2023. <\br>
+Qingyu Han $^+$, Linxin Yang $^+$, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang $^*$, Ruoyu Sun $^*$, Xiaodong Luo. ICLR 2023. 
 $^+$: co-first author; $^*$: co-corresponding author
 
 * [NTK-SAP: Improving neural network pruning by aligning training dynamics](https://openreview.net/forum?id=-5EWhW_4qWP) Yite Wang, Dawei Li, Ruoyu Sun. ICLR 2023
