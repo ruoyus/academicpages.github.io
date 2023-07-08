@@ -18,7 +18,7 @@ My recent interests include **theory and algorthms of large foundation models**,
 I'm especially interested in nonconvex optimization: (a) I have written a survey "optimization for deep learning: an overview"; (b) I provided one of the first geometrical analysis for non-convex matrix completion. 
 Besides, I have been working on: (1) large-scale optimization algorithms, especially Adam, ADMM and coordinate descent. (2) communication networks. 
 
-**Recruiting**: 
+**【Recruiting】**: 
   We (as part of CUHK-SZ, SRIBD, SICIAM) have multiple positions for research scientists, research engineer, postdoc, PhD students, visiting scholars, visiting students, undergrad interns. 
   If you are interested in LLM, AI, deep learning, optimization and etc., please feel free to contact me at sunruoyu@cuhk.edu.cn. If possible, attach your CV. 
 
