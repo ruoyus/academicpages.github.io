@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ruoyu Sun"
   avatar           : "profile_ruoyus.png"
-  bio              : "Assistant Professor at University of Illinois at Urbana-Champaign" # Your biography for the left-hand sidebar
-  location         : "Urbana, IL" # could become a hyper link
+  bio              : "Associate Professor at Chinese University of Hong Kong, Shenzhen" # Your biography for the left-hand sidebar
+  location         : "Shenzhen, China" # could become a hyper link
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=PsfzbCMAAAAJ&hl=en"
-  email            : "sundirac@gmail.com"
+  email            : "sunruoyu@cuhk.edu.cn"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
