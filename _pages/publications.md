@@ -68,6 +68,11 @@ PUBLICATIONS (by Time)
 ======
 $^+$: co-first author; $^{\*}$: corresponding author
 
+* [Balanced Training for Sparse GANs] Yite Wang, Jing Wu, Naira Hovakimyan, Ruoyu Sun.  NeurIPS 2023. <br />
+
+* [PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust Generalization]
+Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2023. <br />
+
 * [A GNN-Guided Predict-and-Search Framework for Mixed-Integer Linear Programming](https://openreview.net/forum?id=pHMpgT5xWaE) [[arxiv](https://arxiv.org/pdf/2302.05636.pdf)]
 Qingyu Han $^+$, Linxin Yang $^+$, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang $^{\*}$, Ruoyu Sun $^{\*}$, Xiaodong Luo. ICLR 2023. <br />
 
