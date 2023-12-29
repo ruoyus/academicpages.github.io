@@ -60,7 +60,7 @@ When Do Neural Networks Have No Bad Local Minima? (for ICML and NeurIPS'19 paper
 
 PREPRINTS
 ======
-Recent works on LLMs: 
+Recent works on large language models:
 * [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Li, Z., Xu, T., Zhang, Y., Yu, Y., Sun, R., & Luo, Z. Q.
 * [LEMON: Lossless model expansion](https://arxiv.org/abs/2310.07999) Yite Wang, Jiahao Su, Hanlin Lu, Cong Xie, Tianyi Liu, Jianbo Yuan, Haibin Lin, Ruoyu Sun, Hongxia Yang.
 * [AceGPT, Localizing Large Language Models in Arabic](https://arxiv.org/abs/2309.12053) Huang Huang, Fei Yu, Jianqing Zhu, Xuening Sun, Hao Cheng, Dingjie Song, Zhihong Chen, Abdulmohsen Alharthi, Bang An, Juncai He, Ziche Liu, Zhiyi Zhang, Junying Chen, Jianquan Li, Benyou Wang, Lian Zhang, Ruoyu Sun, Xiang Wan, Haizhou Li, Jinchao Xu.
