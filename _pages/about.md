@@ -15,7 +15,7 @@ I am an associate professor at **Chinese University of Hong Kong, Shenzhen**. My
 Previously I was a tenure-track assistant professor at **UIUC**, and was a full-time visiting scientist at **FAIR** (Facebook AI Research, now Meta AI Fundamental AI Research). I was a postdoc at **Stanford**, obtained PhD from **Univ. of Minnesota**, and BS in math from **Peking University**. 
 
 My recent interests include **theory and algorthms of large foundation models**, generative AI, learning-assisted optimization, neural-net compression, landscape of neural-nets and Adam. 
-I'm especially interested in nonconvex optimization: (a) I have written a survey "optimization for deep learning: an overview"; (b) I provided one of the first geometrical analysis for non-convex matrix completion. 
+I'm especially interested in nonconvex optimization:  (a) We provided one of the first geometrical analysis for non-convex matrix completion (paper in FOCS). (b) I have written a survey "optimization for deep learning: an overview"; (c) We provided the convergence proof of un-modified Adam, which is probably the most popular algorithm in deep learning.  
 Besides, I have been working on: (1) large-scale optimization algorithms, especially Adam, ADMM and coordinate descent. (2) communication networks. 
 
 *************************
