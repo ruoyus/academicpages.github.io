@@ -78,9 +78,9 @@ $^+$: co-first author; $^{\*}$: corresponding author
 
 * [LEMON: Lossless model expansion](https://arxiv.org/abs/2310.07999) Yite Wang, Jiahao Su, Hanlin Lu, Cong Xie, Tianyi Liu, Jianbo Yuan, Haibin Lin, Ruoyu Sun, Hongxia Yang. ICLR 2024. <br />
 
-* [Balanced Training for Sparse GANs] Yite Wang, Jing Wu, Naira Hovakimyan, Ruoyu Sun.  NeurIPS 2023. <br />
+* [Balanced Training for Sparse GANs](https://openreview.net/pdf?id=w2F8Fm6Sg3) Yite Wang, Jing Wu, Naira Hovakimyan, Ruoyu Sun.  NeurIPS 2023. <br />
 
-* [PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust Generalization]
+* [PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust Generalization](https://openreview.net/pdf?id=ydKWoqWZ3t)
 Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo. NeurIPS 2023. <br />
 
 * [A GNN-Guided Predict-and-Search Framework for Mixed-Integer Linear Programming](https://openreview.net/forum?id=pHMpgT5xWaE) [[arxiv](https://arxiv.org/pdf/2302.05636.pdf)]
