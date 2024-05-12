@@ -22,7 +22,7 @@ author_profile: true
 
 - - -
 # Recent works on large language models:
-* [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Li, Z., Xu, T., Zhang, Y., Yu, Y., Sun, R., & Luo, Z. Q.  Arxiv.
+* [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models](https://arxiv.org/abs/2310.10505). Li, Z., Xu, T., Zhang, Y., Yu, Y., Sun, R., & Luo, Z. Q.  Accepted to ICML 2024. 
 
 * [AceGPT, Localizing Large Language Models in Arabic](https://arxiv.org/abs/2309.12053) Huang Huang, Fei Yu, Jianqing Zhu, Xuening Sun, Hao Cheng, Dingjie Song, Zhihong Chen, Abdulmohsen Alharthi, Bang An, Juncai He, Ziche Liu, Zhiyi Zhang, Junying Chen, Jianquan Li, Benyou Wang, Lian Zhang, Ruoyu Sun, Xiang Wan, Haizhou Li, Jinchao Xu. NAACL 2024. 
 
